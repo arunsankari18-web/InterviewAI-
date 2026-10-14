@@ -1,0 +1,3566 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-01",
+      "name": "Dr. K. Ramanathan (Placement Officer)",
+      "email": "admin@interviewai.dev",
+      "passwordHash": "$2a$10$tcjbfDDNgxmnqk4wzQMJCuMW8ypDu6ynXFPi535HpLwF67QG2prui",
+      "role": "admin",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Admin%20Placement",
+      "createdAt": "2026-09-01T08:00:00.000Z"
+    },
+    {
+      "id": "usr-cand-01",
+      "name": "Balanithya M",
+      "email": "balanithyam04@gmail.com",
+      "passwordHash": "$2a$10$dVJDJnBK0RnaykeIrdfCZ.3eAYX5N57KeRjy4ys1fnZumPazBQnGC",
+      "role": "candidate",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Balanithya",
+      "createdAt": "2026-10-01T09:30:00.000Z"
+    },
+    {
+      "id": "usr-cand-02",
+      "name": "Arun Kumar S",
+      "email": "candidate@gmail.com",
+      "passwordHash": "$2a$10$dVJDJnBK0RnaykeIrdfCZ.3eAYX5N57KeRjy4ys1fnZumPazBQnGC",
+      "role": "candidate",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Arun%20Kumar",
+      "createdAt": "2026-10-02T10:15:00.000Z"
+    },
+    {
+      "id": "usr-cand-03",
+      "name": "Nithya R",
+      "email": "nithi06@gmail.com",
+      "passwordHash": "$2a$10$dVJDJnBK0RnaykeIrdfCZ.3eAYX5N57KeRjy4ys1fnZumPazBQnGC",
+      "role": "candidate",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Nithya%20R",
+      "createdAt": "2026-10-03T11:20:00.000Z"
+    },
+    {
+      "id": "usr-cand-04",
+      "name": "Kavitha S",
+      "email": "kavitha.s@nec.edu.in",
+      "passwordHash": "$2a$10$dVJDJnBK0RnaykeIrdfCZ.3eAYX5N57KeRjy4ys1fnZumPazBQnGC",
+      "role": "candidate",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Kavitha%20S",
+      "createdAt": "2026-10-04T12:00:00.000Z"
+    },
+    {
+      "id": "usr-cand-05",
+      "name": "Siddharth M",
+      "email": "siddharth.m@gmail.com",
+      "passwordHash": "$2a$10$dVJDJnBK0RnaykeIrdfCZ.3eAYX5N57KeRjy4ys1fnZumPazBQnGC",
+      "role": "candidate",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Siddharth%20M",
+      "createdAt": "2026-10-05T14:45:00.000Z"
+    },
+    {
+      "id": "usr-g-f4cc05a3-0795-4987-8a41-ca06ac3efa81",
+      "name": "siva sankari",
+      "email": "arunsankari18@gmail.com",
+      "passwordHash": "$2a$10$7wpxZq7488muyDPhR.CSeuswdXe8xoBVJfZB6og8nv7G4UKlyifjO",
+      "role": "candidate",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=siva%20sankari",
+      "createdAt": "2026-10-08T08:17:49.688Z"
+    },
+    {
+      "id": "usr-g-16132cee-50ca-46c9-b468-2cd9c8b9f976",
+      "name": "sankari",
+      "email": "24205028@nec.edu.in",
+      "passwordHash": "$2a$10$Aggd5Po9KvHJRQkHeP2wceZpZjQEf3rwTdmkQg.AiQH0q9gp1mrE2",
+      "role": "candidate",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=sankari",
+      "createdAt": "2026-10-12T12:32:03.643Z"
+    },
+    {
+      "id": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "name": "maha lakshmi",
+      "email": "maha18@gmail.com",
+      "passwordHash": "$2a$10$qtoZ7ikt6Szy9mZCjm47xewEDuhflsZxLQ0uiwwG3A2c9VHudk15e",
+      "role": "candidate",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=maha%20lakshmi",
+      "createdAt": "2026-10-12T23:22:17.052Z"
+    }
+  ],
+  "profiles": [
+    {
+      "userId": "usr-admin-01",
+      "college": "National Engineering College, Kovilpatti",
+      "degree": "Ph.D",
+      "department": "Department of Training & Placement",
+      "graduationYear": 2012,
+      "skills": [
+        "Talent Acquisition",
+        "Technical Interview Evaluation",
+        "Curriculum Design"
+      ],
+      "programmingLanguages": [
+        "C++",
+        "Java",
+        "Python"
+      ],
+      "targetRoles": [
+        "Placement Director"
+      ],
+      "targetCompanies": [
+        "Zoho Corporation",
+        "TCS",
+        "Amazon"
+      ],
+      "preferredDifficulty": "Hard",
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-08T06:21:12.725Z"
+    },
+    {
+      "userId": "usr-cand-01",
+      "college": "National Engineering College, Kovilpatti",
+      "degree": "B.Tech",
+      "department": "Information Technology",
+      "graduationYear": 2028,
+      "skills": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Data Structures",
+        "Algorithms",
+        "Machine Learning",
+        "SQL",
+        "DBMS",
+        "Scikit-learn"
+      ],
+      "programmingLanguages": [
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "JavaScript"
+      ],
+      "targetRoles": [
+        "Software Development Engineer",
+        "Data Analyst"
+      ],
+      "targetCompanies": [
+        "Zoho Corporation",
+        "TCS Digital",
+        "Accenture",
+        "Infosys SP"
+      ],
+      "preferredDifficulty": "Medium",
+      "onboardingCompleted": true,
+      "resumeText": "\n\nBALA NITHYA M\n\nThoothukudi, Tamil Nadu\n\n+91 9344726227\n✉\nbalanithyam04@gmail.com\n\nGithub\n\nLinkedIn\nCAREER OBJECTIVE\nTo build a strong foundation in AI,\nML, and Data Science, and apply my\nlearning to achieve both academic\nand career excellence.\nEDUCATION\nNational Engineering College,\nKoyilandy, Tamil Nadu\n2024 – 2028\nB.Tech – Information Technology |\nCGPA: 8.03\nBMC Matriculation Higher\nSecondary School, Thoothukudi\n2023 – 2024\n12th Standard – State Board |\nPercentage: 85%\nBMC Matriculation Higher\nSecondary School, Thoothukudi\n2021 – 2022\n10th Standard – State Board |\nPercentage: 91%\nTECHNICAL SKILLS\nLanguages: C, C++, Java, Python\nWeb Development: HTML, CSS,\nJavaScript, React.js\nTools & Technologies: GitHub, VS\nCode, OracleIO, Pandas, Matplotlib,\nScikit-learn\nAREA OF INTEREST\nPROJECTS\nContact Management System\n— College Project (2024)GitHubLive Demo\n• A comprehensive contact management system built with C. Features include adding,\nediting, deleting, and viewing contacts with additional information support.\nC ProgrammingFile Handling\nCanteen Management System\n— College Project (2025)GitHub\n• College Canteen Management System for online food ordering, digital payments, and\nqueue-free dining on campus.\nHTMLCSSJavaScript\nOnline Food Ordering System\n— Academic Project (2025)GitHub\n• An online food ordering system that allows customers to browse menus, place orders, and\ntrack delivery status in real-time.\nC++\nCura — Smart Healthcare\n— Hackathon Project (2024)GitHub\n• CURA combines wearable health tracking with portable patient records and digital\nhealthcare tools for continuous care.\nHTMLCSSReact.jsOracleIO\nCredit Card Fraud Detection\n— Academic ProjectGitHub\n• Detected fraudulent credit card transactions using machine learning algorithms and data\nanalysis techniques.\nPythonScikit-learnPandasMatplotlib\nTitanic Survival Prediction\n— Internship Project (2025)GitHub\n• Predicted survival outcomes of Titanic passengers using machine learning algorithms and\ndata analysis techniques.\nPythonScikit-learnPandasMatplotlib\nMovie Rating Prediction\n— Internship Project (2025)GitHub\n• Predicted movie ratings using machine learning algorithms and data analysis techniques.\nPythonScikit-learnPandasMatplotlib\nNanoTick — Stopwatch\n— Internship Project (2025)Live DemoGitHub\n• A stopwatch application built using interactive web technologies.\nHTMLCSSJavaScript\nCosmoXO — XO Game with AI\n— Internship Project (2025)Live DemoGitHub\n• An XO game where you can play with AI.\nHTMLCSSJavaScript\nResponsive Page — BiteBliss\n— Internship Project (2025)GitHubLiveDemo\n• An interactive responsive page with food content.\nHTMLCSSJavaScript\nCERTIFICATIONS\nIntroduction to C— SololearnOnline CourseView certificate\nWeb Development— UdemyOnline CourseCompleted\nTechnical English for Engineers— NPTEL, IIT Madras\n8 Weeks|Score: 75%\nView certificate\nIntroduction to Internet of Things— NPTEL, IIT Madras\n12 Weeks|Score: 79%\nView certificate\nIntroduction to Industry 4.0 and Industrial IoT— NPTEL, IIT Ropar\n12 Weeks|Score: 71%\nView certificate\nAffective Computing— NPTEL, IIT Kharagpur12 Weeks|Score: 75%View certificate\nPython Programming— Aaron Computer EducationOffline CourseScore: 60%\nPARTICIPATION\nInter College Competition:\nIntra College Competition:\nAspiring AI & Data Science Professional\nArtificial Intelligence & Machine\nLearning\n▸\nData Science and Analytics▸\nFull-Stack Development▸\nHackathon, VizQuest — Mepco Schlenk Engineering College (January 27) — Coding and\nproblem solving skills\n•\nHackathon — Devspark'25 — KPR Institute of Engineering and Technology\n•\nCode mania, Paper Presentation — Prasidhi'2k25 — Kongu Engineering College\n•\nCodeathon — 8-hour Coding Hackathon — Knowledge Institute of Technology\n•\nTNWISE Hackathon'26 — Rajalakshmi Engineering College\n•\nCodeSprint — Coding Competition — National Engineering College\n•\nWebMorph - Web Development Competition — National Engineering College\n•",
+      "resumeParsedData": {
+        "skills": [
+          "REACT",
+          "JAVASCRIPT",
+          "HTML",
+          "CSS",
+          "PYTHON",
+          "JAVA",
+          "C++",
+          "C",
+          "GIT",
+          "ALGORITHMS",
+          "MACHINE LEARNING",
+          "PANDAS",
+          "SCIKIT-LEARN"
+        ],
+        "technologies": [
+          "react",
+          "javascript",
+          "html",
+          "css",
+          "python",
+          "java",
+          "c++",
+          "c",
+          "git",
+          "algorithms",
+          "machine learning",
+          "pandas",
+          "scikit-learn"
+        ],
+        "projectClaims": [
+          {
+            "claimId": "claim-22",
+            "category": "project",
+            "text": "• A comprehensive contact management system built with C. Features include adding,",
+            "techStack": [
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-52",
+            "category": "project",
+            "text": "• A stopwatch application built using interactive web technologies.",
+            "techStack": [
+              "C"
+            ]
+          }
+        ],
+        "rawSummary": "Extracted 13 technical skills and 2 verifiable resume claims."
+      },
+      "updatedAt": "2026-10-08T06:21:12.725Z"
+    },
+    {
+      "userId": "usr-cand-02",
+      "college": "PSG College of Technology, Coimbatore",
+      "degree": "B.E",
+      "department": "Computer Science and Engineering",
+      "graduationYear": 2026,
+      "skills": [
+        "Data Structures",
+        "Dynamic Programming",
+        "System Design",
+        "Java",
+        "AWS",
+        "Docker",
+        "Microservices"
+      ],
+      "programmingLanguages": [
+        "Java",
+        "Python",
+        "Go"
+      ],
+      "targetRoles": [
+        "Software Development Engineer I (SDE-1)"
+      ],
+      "targetCompanies": [
+        "Amazon",
+        "Zoho Corporation"
+      ],
+      "preferredDifficulty": "Hard",
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-08T06:21:12.725Z"
+    },
+    {
+      "userId": "usr-cand-03",
+      "college": "National Engineering College, Kovilpatti",
+      "degree": "B.Tech",
+      "department": "Information Technology",
+      "graduationYear": 2026,
+      "skills": [
+        "Full Stack Development",
+        "React.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "SQL Joins",
+        "REST APIs"
+      ],
+      "programmingLanguages": [
+        "JavaScript",
+        "Python",
+        "SQL"
+      ],
+      "targetRoles": [
+        "Full Stack Developer",
+        "System Engineer (Digital)"
+      ],
+      "targetCompanies": [
+        "TCS Digital",
+        "Infosys SP"
+      ],
+      "preferredDifficulty": "Medium",
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-08T06:21:12.725Z"
+    },
+    {
+      "userId": "usr-cand-04",
+      "college": "National Engineering College, Kovilpatti",
+      "degree": "B.E",
+      "department": "Computer Science and Engineering",
+      "graduationYear": 2026,
+      "skills": [
+        "Object Oriented Programming",
+        "Database Normalization",
+        "Java Spring Boot",
+        "Cloud Computing"
+      ],
+      "programmingLanguages": [
+        "Java",
+        "C++",
+        "SQL"
+      ],
+      "targetRoles": [
+        "Specialist Programmer",
+        "Cloud Engineer"
+      ],
+      "targetCompanies": [
+        "Infosys SP",
+        "Accenture"
+      ],
+      "preferredDifficulty": "Medium",
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-08T06:21:12.725Z"
+    },
+    {
+      "userId": "usr-cand-05",
+      "college": "Thiagarajar College of Engineering, Madurai",
+      "degree": "B.Tech",
+      "department": "Artificial Intelligence and Data Science",
+      "graduationYear": 2026,
+      "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Python",
+        "PyTorch",
+        "NLP",
+        "Algorithms",
+        "DSA"
+      ],
+      "programmingLanguages": [
+        "Python",
+        "C++",
+        "R"
+      ],
+      "targetRoles": [
+        "Machine Learning Engineer",
+        "Software Development Engineer"
+      ],
+      "targetCompanies": [
+        "Amazon",
+        "Zoho Corporation",
+        "TCS Digital"
+      ],
+      "preferredDifficulty": "Hard",
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-08T06:21:12.725Z"
+    },
+    {
+      "userId": "usr-g-f4cc05a3-0795-4987-8a41-ca06ac3efa81",
+      "college": "National Engineering College",
+      "degree": "B.Tech / B.E.",
+      "department": "Civil Engineering",
+      "graduationYear": 2028,
+      "skills": [
+        "Data Structures",
+        "JavaScript",
+        "Algorithms",
+        "REACT",
+        "JAVASCRIPT",
+        "HTML",
+        "CSS",
+        "JAVA",
+        "SPRING BOOT",
+        "C++",
+        "C",
+        "GIT",
+        "ALGORITHMS",
+        "MACHINE LEARNING"
+      ],
+      "programmingLanguages": [],
+      "targetRoles": [
+        "Software Development Engineer",
+        "Full Stack Developer",
+        "Backend Specialist"
+      ],
+      "targetCompanies": [
+        "Zoho Corporation",
+        "TCS Digital",
+        "Amazon"
+      ],
+      "preferredDifficulty": "Medium",
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-08T08:19:44.390Z",
+      "resumeText": "\n\nSIVA SANKARI R\n\nThoothukudi, Tamil Nadu\n\n+91 9080427125\n✉\nanursankari182@gmail.com\n\nGithub\n\nLinkedIn\nCAREER OBJECTIVE\nAspiring Data Scientist passionate\nabout turning data into actionable\ninsights to drive business growth.\nEDUCATION\nNational Engineering College,\nKoyilandy, Tamil Nadu\n2024 – 2028\nB.Tech – Information Technology |\nCGPA: 8.25\nHarbour Higher Secondary School,\nThoothukudi,\n2023 – 2024\nHigher Secondary Education (12th\nGrade) | Marks: 516 / 600 | 86%\nC.M High School, Thoothukudi,\n2021 – 2022\nSecondary Education (10th Grade) |\nMarks: 449 / 500 | 89.8%\nTECHNICAL SKILLS\nLanguages: C, C++, Java\nWeb Development: HTML, CSS, React\nTools: GitHub, VS Code\nAREA OF INTEREST\nLANGUAGES\nTamilEnglish\nHindi\nPROJECTS\nMovie Rating Prediction\nProject Link\n• Built a regression model to predict movie ratings using genre, budget, cast, and review\nfeatures.\n• Achieved 85% accuracy using Random Forest and XGBoost algorithms.\nTitanic Survival Prediction\nProject Link\n• Classified passenger survival using machine learning algorithms with EDA and feature\nengineering.\n• Achieved 82% accuracy using Logistic Regression and Decision Trees.\nSmart Exam Preparation\nProject Link\n• Full-stack exam preparation platform built with Java Spring Boot.\n• Features MCQ tests, progress tracking, and personalized study recommendations.\nCalendar Application\n View Video\n• Built an interactive calendar with event management and monthly view using vanilla\nJavaScript.\nBluetooth Controlled Smart RC Car\n View Image\n• Built an Arduino-based RC car using Bluetooth, L293D motor driver, and ultrasonic sensor.\n• Implemented wireless control and obstacle detection for smart navigation.\nCERTIFICATIONS\nTechnical English for Engineers— NPTEL, IIT Madras\n8 Weeks|Score: 70%\nView certificate\nIntroduction to Internet of Things— NPTEL, IIT Kharagpur\n12 Weeks|Score: 79%\nView certificate\nIntroduction to Industry 4.0 and Industrial IoT— NPTEL, IIT Kharagpur\n12 Weeks|Score: 78%\nView certificate\nAffective Computing— NPTEL, IIIT Delhi12 Weeks|Score: 72%View certificate\nACHIEVEMENTS\nPARTICIPATION\nAspiring Data Analyst\nData Science and Analytics▸\nMachine Learning (ML)▸\n3rd Place – Paper Presentation, Neupane, Nexus 2K25 — KPR Institute of Engineering\nand Technology View certificate\n\nHack Beyond Limits (Online Odyssey), Rathinam College\n•\n2025, Code Hunt, Coimbatore Institute of Technology\n•\nCode Sprint, National Engineering College, Koyilandy\n•",
+      "resumeParsedData": {
+        "skills": [
+          "REACT",
+          "JAVASCRIPT",
+          "HTML",
+          "CSS",
+          "JAVA",
+          "SPRING BOOT",
+          "C++",
+          "C",
+          "GIT",
+          "ALGORITHMS",
+          "MACHINE LEARNING"
+        ],
+        "technologies": [
+          "react",
+          "javascript",
+          "html",
+          "css",
+          "java",
+          "spring boot",
+          "c++",
+          "c",
+          "git",
+          "algorithms",
+          "machine learning"
+        ],
+        "projectClaims": [
+          {
+            "claimId": "claim-19",
+            "category": "project",
+            "text": "• Built a regression model to predict movie ratings using genre, budget, cast, and review",
+            "techStack": [
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-25",
+            "category": "project",
+            "text": "• Full-stack exam preparation platform built with Java Spring Boot.",
+            "techStack": [
+              "JAVA",
+              "SPRING BOOT",
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-27",
+            "category": "project",
+            "text": "• Built an interactive calendar with event management and monthly view using vanilla",
+            "techStack": [
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-29",
+            "category": "project",
+            "text": "• Built an Arduino-based RC car using Bluetooth, L293D motor driver, and ultrasonic sensor.",
+            "techStack": [
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-30",
+            "category": "project",
+            "text": "• Implemented wireless control and obstacle detection for smart navigation.",
+            "techStack": [
+              "C"
+            ]
+          }
+        ],
+        "rawSummary": "Extracted 11 technical skills and 5 verifiable resume claims."
+      }
+    },
+    {
+      "userId": "usr-g-16132cee-50ca-46c9-b468-2cd9c8b9f976",
+      "college": "National Engineering College",
+      "degree": "B.Tech / B.E.",
+      "department": "Computer Science and Engineering",
+      "graduationYear": 2026,
+      "skills": [
+        "Data Structures",
+        "JavaScript",
+        "Algorithms"
+      ],
+      "programmingLanguages": [],
+      "targetRoles": [
+        "Software Development Engineer"
+      ],
+      "targetCompanies": [
+        "Zoho Corporation",
+        "TCS Digital",
+        "Amazon"
+      ],
+      "preferredDifficulty": "Medium",
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-12T12:32:32.552Z"
+    },
+    {
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "college": "National Engineering College",
+      "degree": "B.Tech / B.E.",
+      "department": "Computer Science and Engineering",
+      "graduationYear": 2026,
+      "skills": [
+        "Data Structures",
+        "JavaScript",
+        "Algorithms",
+        "REACT",
+        "JAVASCRIPT",
+        "HTML",
+        "CSS",
+        "JAVA",
+        "SPRING BOOT",
+        "C++",
+        "C",
+        "GIT",
+        "ALGORITHMS",
+        "MACHINE LEARNING",
+        "PYTHON",
+        "MYSQL",
+        "SQL"
+      ],
+      "programmingLanguages": [],
+      "targetRoles": [
+        "Software Development Engineer",
+        "Full Stack Developer"
+      ],
+      "targetCompanies": [
+        "Zoho Corporation",
+        "TCS Digital",
+        "Amazon"
+      ],
+      "preferredDifficulty": "Medium",
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-12T23:29:23.595Z",
+      "resumeText": "\n\nSIVA SANKARI R\nAspiring Data Analyst\nThoothukudi, Tamil Nadu  ·  +91 9080427125  ·  anursankari182@gmail.com\nGitHub: github.com/arunsankari18-web  ·  LinkedIn: linkedin.com/in/siva-sankari-bb8768330\nC A R E E R    O B J E C T I V E\nAspiring Data Scientist passionate about turning data into actionable insights to drive business growth.\nS K I L L S\nProgramming Languages  C, C++, Java\nWeb Development  HTML, CSS, React\nTools & Platforms  GitHub, VS Code\nArea of Interest  Data Science and Analytics, Machine Learning (ML)\nLanguages  Tamil, English, Hindi\nP R O J E C T S\nMovie Rating Prediction Random Forest, XGBoost Project Link\n–Built a regression model to predict movie ratings using genre, budget, cast, and review features.\n–Achieved 85% accuracy using Random Forest and XGBoost algorithms.\nTitanic Survival Prediction Logistic Regression, Decision Trees Project Link\n–Classified passenger survival using machine learning algorithms with EDA and feature engineering.\n–Achieved 82% accuracy using Logistic Regression and Decision Trees.\nSmart Exam Preparation Java, Spring Boot Project Link\n–Full-stack exam preparation platform built with Java Spring Boot.\n–Features MCQ tests, progress tracking, and personalized study recommendations.\nCalendar Application JavaScript View Video\n–Built an interactive calendar with event management and monthly view using vanilla JavaScript.\nBluetooth Controlled Smart RC Car Arduino, Bluetooth, L293D View Image\n–Built an Arduino-based RC car using Bluetooth, L293D motor driver, and ultrasonic sensor.\n–Implemented wireless control and obstacle detection for smart navigation.\nA C H I E V E M E N T S    &    P A R T I C I P A T I O N\n–3rd Place — Paper Presentation, Neupane, Nexus 2K25, KPR Institute of Engineering and Technology View\ncertificate\n–Competed at Hack Beyond Limits (Online Odyssey), Rathinam College; Code Hunt 2025, Coimbatore Institute of\nTechnology; Code Sprint, National Engineering College, Koyilandy.\nE D U C A T I O N\nB.Tech, Information Technology — National Engineering College, KoyilandyCGPA: 8.25 · 2024 – 2028\n12th Grade — Harbour Higher Secondary School, Thoothukudi516 / 600 (86%) · 2023 – 2024\n10th Grade — C.M High School, Thoothukudi449 / 500 (89.8%) · 2021 – 2022\nC O U R S E S    &    C E R T I F I C A T I O N S\n–NPTEL (IIT Madras) — Technical English for Engineers (8 weeks), Score: 70% View certificate\n–NPTEL (IIT Kharagpur) — Introduction to Internet of Things (12 weeks), Score: 79% View certificate\n–NPTEL (IIT Kharagpur) — Introduction to Industry 4.0 and Industrial IoT (12 weeks), Score: 78% View certificate\n–NPTEL (IIIT Delhi) — Affective Computing (12 weeks), Score: 72% View certificate",
+      "resumeParsedData": {
+        "skills": [
+          "REACT",
+          "JAVASCRIPT",
+          "HTML",
+          "CSS",
+          "JAVA",
+          "SPRING BOOT",
+          "C++",
+          "C",
+          "GIT",
+          "ALGORITHMS",
+          "MACHINE LEARNING"
+        ],
+        "technologies": [
+          "react",
+          "javascript",
+          "html",
+          "css",
+          "java",
+          "spring boot",
+          "c++",
+          "c",
+          "git",
+          "algorithms",
+          "machine learning"
+        ],
+        "projectClaims": [
+          {
+            "claimId": "claim-12",
+            "category": "project",
+            "text": "–Built a regression model to predict movie ratings using genre, budget, cast, and review features.",
+            "techStack": [
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-18",
+            "category": "project",
+            "text": "–Full-stack exam preparation platform built with Java Spring Boot.",
+            "techStack": [
+              "JAVA",
+              "SPRING BOOT",
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-21",
+            "category": "project",
+            "text": "–Built an interactive calendar with event management and monthly view using vanilla JavaScript.",
+            "techStack": [
+              "JAVASCRIPT",
+              "JAVA",
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-23",
+            "category": "project",
+            "text": "–Built an Arduino-based RC car using Bluetooth, L293D motor driver, and ultrasonic sensor.",
+            "techStack": [
+              "C"
+            ]
+          },
+          {
+            "claimId": "claim-24",
+            "category": "project",
+            "text": "–Implemented wireless control and obstacle detection for smart navigation.",
+            "techStack": [
+              "C"
+            ]
+          }
+        ],
+        "rawSummary": "Extracted 11 technical skills and 5 verifiable resume claims."
+      }
+    }
+  ],
+  "companies": [
+    {
+      "id": "comp-zoho",
+      "name": "Zoho Corporation",
+      "slug": "zoho",
+      "tier": "Product Elite",
+      "logo": "🏢",
+      "overview": "Global software company known for its comprehensive suite of cloud applications, deep problem-solving tests, and strict evaluation of algorithmic problem solving and low-level system design without standard library shortcuts.",
+      "difficulty": "Hard",
+      "roles": [
+        "Software Development Engineer",
+        "Product Developer",
+        "Frontend Engineer",
+        "Technical Support Engineer"
+      ],
+      "hiringFocus": "Core problem solving, pure data structures, recursion, pattern-based algorithms, low-level design, and high focus on clean algorithmic thinking.",
+      "interviewRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Round 1: Basic Programming / Aptitude",
+          "type": "Coding & Logic",
+          "description": "C/Java/Python fundamentals, loops, pointers/memory, pattern printing, numerical puzzles, and basic time complexity.",
+          "durationMinutes": 60,
+          "eliminationRate": "70%"
+        },
+        {
+          "roundNumber": 2,
+          "name": "Round 2: Advanced Programming",
+          "type": "Problem Solving",
+          "description": "Complex string parsing, matrix manipulation, multi-dimensional array transforms, recursion, and custom stack/queue operations.",
+          "durationMinutes": 90,
+          "eliminationRate": "60%"
+        },
+        {
+          "roundNumber": 3,
+          "name": "Round 3: Design & Implementation",
+          "type": "Low-Level Design",
+          "description": "Designing an end-to-end console application (e.g. Railway Reservation, Toll Gate, Taxi Booking, Invoice System) with OOP design.",
+          "durationMinutes": 120,
+          "eliminationRate": "50%"
+        },
+        {
+          "roundNumber": 4,
+          "name": "Round 4: Technical HR / Deep Dive",
+          "type": "Core CS",
+          "description": "DBMS transaction isolation, OS process synchronization, computer networks, and in-depth defense of code written in earlier rounds.",
+          "durationMinutes": 45,
+          "eliminationRate": "20%"
+        },
+        {
+          "roundNumber": 5,
+          "name": "Round 5: General HR",
+          "type": "Behavioral",
+          "description": "Cultural alignment, long-term career aspirations, resilience, problem-solving mindset, and teamwork scenarios.",
+          "durationMinutes": 30,
+          "eliminationRate": "10%"
+        }
+      ],
+      "blueprint": {
+        "codingIntensity": 90,
+        "technicalDepth": 85,
+        "systemDesignDepth": 75,
+        "problemSolvingWeight": 95,
+        "csCoreWeight": 70,
+        "behavioralWeight": 50,
+        "topFocusAreas": [
+          "Custom Data Structures",
+          "Low-Level Design (LLD)",
+          "Recursion & Backtracking",
+          "String & Matrix Puzzles",
+          "OOP Modeling"
+        ]
+      },
+      "reportedExperiences": [
+        {
+          "candidateRole": "Product Developer",
+          "year": "2025 Placement Drive",
+          "outcome": "Selected",
+          "difficultyRating": "Hard",
+          "summary": "Focus heavily on edge cases. In Round 3, I was asked to build a dynamic Splitwise/Expense Manager from scratch without using any built-in data structure libraries.",
+          "roundsDetailed": [
+            "Cleared 5 string logic questions in Round 1",
+            "Built recursive maze solver in Round 2",
+            "Designed Train Reservation System with RAC and Waiting List logic in Round 3"
+          ]
+        },
+        {
+          "candidateRole": "Software Engineer",
+          "year": "2024 Off-Campus",
+          "outcome": "Selected",
+          "difficultyRating": "Medium-Hard",
+          "summary": "Interviewer focused on memory efficiency, recursion depth, and asked why I didn't use bit manipulation.",
+          "roundsDetailed": [
+            "2D Matrix search and spiral traversal",
+            "Custom Expression Parser with operator precedence"
+          ]
+        }
+      ],
+      "placementTips": [
+        "Avoid relying on built-in language sorting or parsing libraries; practice writing raw algorithms.",
+        "In the design round, write modular classes with single-responsibility principles.",
+        "Be prepared to defend every line of code you wrote in earlier rounds."
+      ]
+    },
+    {
+      "id": "comp-tcs",
+      "name": "Tata Consultancy Services (TCS Digital / Prime)",
+      "slug": "tcs",
+      "tier": "Tier 1 Enterprise",
+      "logo": "🌐",
+      "overview": "Global IT service and consulting powerhouse. Digital and Prime cadres test advanced algorithmic coding, SQL database optimization, cloud fundamentals, and full-stack project architecture.",
+      "difficulty": "Medium",
+      "roles": [
+        "System Engineer (Digital)",
+        "Full Stack Developer (Prime)",
+        "Cloud Engineer",
+        "Data Analyst"
+      ],
+      "hiringFocus": "Data structures, DBMS SQL queries and normalization, OOP principles, real-world project contributions, and structured STAR-method communication.",
+      "interviewRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Round 1: National Qualifier (TCS NQT)",
+          "type": "Online Assessment",
+          "description": "Advanced coding (2 questions: DP/Greedy/Graphs), numerical ability, verbal reasoning, and CS foundation.",
+          "durationMinutes": 90,
+          "eliminationRate": "65%"
+        },
+        {
+          "roundNumber": 2,
+          "name": "Round 2: Technical Interview (TR)",
+          "type": "Technical Core",
+          "description": "Deep dive into OOP, SQL joins and indexing, REST APIs, resume project defense, and live coding of a standard DSA problem.",
+          "durationMinutes": 45,
+          "eliminationRate": "40%"
+        },
+        {
+          "roundNumber": 3,
+          "name": "Round 3: Managerial Interview (MR)",
+          "type": "Scenario & Situational",
+          "description": "Handling client deadlines, agile sprint management, conflict resolution, and architectural trade-off questions.",
+          "durationMinutes": 30,
+          "eliminationRate": "20%"
+        },
+        {
+          "roundNumber": 4,
+          "name": "Round 4: HR Interview",
+          "type": "Behavioral & Fit",
+          "description": "Relocation flexibility, shifts, career vision, and ethical workplace dilemma scenarios.",
+          "durationMinutes": 20,
+          "eliminationRate": "10%"
+        }
+      ],
+      "blueprint": {
+        "codingIntensity": 70,
+        "technicalDepth": 75,
+        "systemDesignDepth": 60,
+        "problemSolvingWeight": 75,
+        "csCoreWeight": 85,
+        "behavioralWeight": 75,
+        "topFocusAreas": [
+          "SQL Complex Queries & Joins",
+          "OOP Inheritance & Polymorphism",
+          "Array & String Manipulation",
+          "Project Defense",
+          "Web Architecture"
+        ]
+      },
+      "reportedExperiences": [
+        {
+          "candidateRole": "TCS Prime Developer",
+          "year": "2025 On-Campus",
+          "outcome": "Selected",
+          "difficultyRating": "Medium",
+          "summary": "The technical interviewer scrutinized my final year React/Node project, asking how JWT tokens are validated and how database indexing speeds up queries.",
+          "roundsDetailed": [
+            "Live coded binary search variation",
+            "Wrote 3 complex SQL GROUP BY & HAVING queries",
+            "Defended resume projects in detail"
+          ]
+        }
+      ],
+      "placementTips": [
+        "Master SQL subqueries, window functions, and indexing explanations.",
+        "Understand the internal working of Java JVM, Python GIL, or JavaScript Event Loop.",
+        "Structure behavioural answers using Situation, Task, Action, Result (STAR)."
+      ]
+    },
+    {
+      "id": "comp-amazon",
+      "name": "Amazon",
+      "slug": "amazon",
+      "tier": "Tier 1 Product",
+      "logo": "📦",
+      "overview": "World's largest e-commerce and cloud provider. Rigorous interview process balancing deep algorithmic problem solving, scalable distributed system design, and 16 Leadership Principles.",
+      "difficulty": "Hard",
+      "roles": [
+        "Software Development Engineer I (SDE-1)",
+        "Frontend Engineer I",
+        "Cloud Support Associate",
+        "Data Engineer"
+      ],
+      "hiringFocus": "Binary Trees, Dynamic Programming, Graphs (BFS/DFS), Hash Maps, Low/High Level System Design, and Amazon Leadership Principles (Customer Obsession, Ownership, Bias for Action, Dive Deep).",
+      "interviewRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Round 1: Online Assessment (OA)",
+          "type": "Coding & Work Simulation",
+          "description": "2 Medium-Hard LeetCode style problems + Work Style Assessment measuring Leadership Principles.",
+          "durationMinutes": 90,
+          "eliminationRate": "70%"
+        },
+        {
+          "roundNumber": 2,
+          "name": "Round 2: Technical & Problem Solving 1",
+          "type": "DSA & LP",
+          "description": "Live coding on Binary Trees / Heaps / Graphs + 20 minutes on Customer Obsession and Ownership stories.",
+          "durationMinutes": 60,
+          "eliminationRate": "50%"
+        },
+        {
+          "roundNumber": 3,
+          "name": "Round 3: Technical & Problem Solving 2",
+          "type": "DSA & LLD",
+          "description": "Dynamic Programming / Trie / Matrix problems + Object Oriented Low Level Design + Leadership Principles.",
+          "durationMinutes": 60,
+          "eliminationRate": "50%"
+        },
+        {
+          "roundNumber": 4,
+          "name": "Round 4: Bar Raiser",
+          "type": "Comprehensive & LP",
+          "description": "Challenging edge-case problem solving with strict optimization + deep Dive Deep and Deliver Results interrogation.",
+          "durationMinutes": 60,
+          "eliminationRate": "40%"
+        }
+      ],
+      "blueprint": {
+        "codingIntensity": 95,
+        "technicalDepth": 90,
+        "systemDesignDepth": 80,
+        "problemSolvingWeight": 95,
+        "csCoreWeight": 75,
+        "behavioralWeight": 90,
+        "topFocusAreas": [
+          "Trees, Graphs & Heaps",
+          "Dynamic Programming & Memoization",
+          "Leadership Principles (STAR Stories)",
+          "Time & Space Complexity Proofs",
+          "Object-Oriented Design"
+        ]
+      },
+      "reportedExperiences": [
+        {
+          "candidateRole": "SDE-1",
+          "year": "2025 SDE Intern Conversion",
+          "outcome": "Selected",
+          "difficultyRating": "Hard",
+          "summary": "Every technical round started with 20 minutes of Leadership Principle questions. Make sure you have quantified metrics in your stories!",
+          "roundsDetailed": [
+            "Word Break II with Memoization",
+            "Top K Frequent Elements in Data Stream using Min-Heap",
+            "Designed Locker Management System (LLD)"
+          ]
+        }
+      ],
+      "placementTips": [
+        "Always state the brute force first, calculate its time complexity, and then explain your optimal strategy before typing a line of code.",
+        "Prepare 2 distinct real-life stories for every Amazon Leadership Principle with measurable metrics."
+      ]
+    },
+    {
+      "id": "comp-accenture",
+      "name": "Accenture",
+      "slug": "accenture",
+      "tier": "Tier 1 Enterprise",
+      "logo": "⚡",
+      "overview": "Leading global professional services company specializing in digital, cloud, security, and enterprise transformation. Advanced Associate Software Engineer (AASE) drives prioritize full stack development and cloud agility.",
+      "difficulty": "Medium",
+      "roles": [
+        "Advanced Associate Software Engineer (AASE)",
+        "Associate Software Engineer (ASE)",
+        "Security Associate"
+      ],
+      "hiringFocus": "Pseudocode analysis, core programming (Java/Python/C++), SQL & NoSQL differences, cloud fundamentals, and communicative problem solving.",
+      "interviewRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Round 1: Cognitive, Technical & Coding",
+          "type": "Online Assessment",
+          "description": "Cognitive assessment, technical pseudocode logic, networking, MS Office/Cloud basics, and 2 hands-on coding questions.",
+          "durationMinutes": 90,
+          "eliminationRate": "55%"
+        },
+        {
+          "roundNumber": 2,
+          "name": "Round 2: Communication Assessment",
+          "type": "Verbal & Audio",
+          "description": "Automated speech testing: reading, listening comprehension, story retelling, and spontaneous speaking.",
+          "durationMinutes": 20,
+          "eliminationRate": "30%"
+        },
+        {
+          "roundNumber": 3,
+          "name": "Round 3: Combined Tech & HR Interview",
+          "type": "Technical & Behavioral",
+          "description": "Resume walkthrough, explaining project challenges, live problem solving, OOP concepts, and situational teamwork questions.",
+          "durationMinutes": 35,
+          "eliminationRate": "25%"
+        }
+      ],
+      "blueprint": {
+        "codingIntensity": 65,
+        "technicalDepth": 70,
+        "systemDesignDepth": 55,
+        "problemSolvingWeight": 70,
+        "csCoreWeight": 80,
+        "behavioralWeight": 80,
+        "topFocusAreas": [
+          "OOP Concepts & Real-life Examples",
+          "Database Normalization & ACID Properties",
+          "Array/String Manipulation",
+          "Project Explanation & Architecture",
+          "Communication Clarity"
+        ]
+      },
+      "reportedExperiences": [
+        {
+          "candidateRole": "AASE",
+          "year": "2024 On-Campus",
+          "outcome": "Selected",
+          "difficultyRating": "Medium",
+          "summary": "Interviewer wanted clean explanations of Polymorphism vs Encapsulation and asked me to write an optimized string palindrome logic.",
+          "roundsDetailed": [
+            "Explained MERN architecture",
+            "Wrote anagram check without sorting",
+            "Answered conflict resolution scenario"
+          ]
+        }
+      ],
+      "placementTips": [
+        "Practice speaking fluently and clearly for the automated communication round.",
+        "Be prepared with clear real-world analogies for OOP and ACID properties."
+      ]
+    },
+    {
+      "id": "comp-infosys",
+      "name": "Infosys (Specialist Programmer & Digital)",
+      "slug": "infosys",
+      "tier": "Tier 1 Enterprise",
+      "logo": "🔷",
+      "overview": "Global leader in next-generation digital services. Specialist Programmer (SP) and Digital Specialist Engineer (DSE) tracks involve competitive programming, advanced graph algorithms, and cloud native architectures.",
+      "difficulty": "Medium-Hard",
+      "roles": [
+        "Specialist Programmer (SP)",
+        "Digital Specialist Engineer (DSE)",
+        "Systems Engineer (SE)"
+      ],
+      "hiringFocus": "HackWithInfy / InfyTQ challenges, Greedy algorithms, Dynamic Programming, Segment Trees, REST APIs, and database transactions.",
+      "interviewRounds": [
+        {
+          "roundNumber": 1,
+          "name": "Round 1: Advanced Coding / HackWithInfy",
+          "type": "Online Coding",
+          "description": "3 algorithmic problems ranging from Medium to Hard LeetCode/Codeforces level.",
+          "durationMinutes": 180,
+          "eliminationRate": "80%"
+        },
+        {
+          "roundNumber": 2,
+          "name": "Round 2: Technical Deep Dive",
+          "type": "Algorithms & Core",
+          "description": "Explaining optimal logic for OA questions, graph traversals, data structures, and database query optimization.",
+          "durationMinutes": 50,
+          "eliminationRate": "40%"
+        },
+        {
+          "roundNumber": 3,
+          "name": "Round 3: HR & Cultural Alignment",
+          "type": "Behavioral",
+          "description": "Willingness to learn new tech stacks, adaptability, team collaboration, and client handling scenarios.",
+          "durationMinutes": 25,
+          "eliminationRate": "15%"
+        }
+      ],
+      "blueprint": {
+        "codingIntensity": 85,
+        "technicalDepth": 80,
+        "systemDesignDepth": 65,
+        "problemSolvingWeight": 85,
+        "csCoreWeight": 80,
+        "behavioralWeight": 65,
+        "topFocusAreas": [
+          "Dynamic Programming & Bitmasking",
+          "Graph Algorithms (Dijkstra, Topological Sort)",
+          "SQL Optimization & Window Functions",
+          "RESTful Architecture",
+          "Time Complexity Analysis"
+        ]
+      },
+      "reportedExperiences": [
+        {
+          "candidateRole": "Specialist Programmer",
+          "year": "2025 HackWithInfy",
+          "outcome": "Selected",
+          "difficultyRating": "Hard",
+          "summary": "Interviewer asked me to live-code a Dynamic Programming solution on a matrix with obstacles, then asked how MongoDB handles sharding.",
+          "roundsDetailed": [
+            "Optimized DP with Space Optimization",
+            "Detailed discussion on B-Tree vs Hash indexing"
+          ]
+        }
+      ],
+      "placementTips": [
+        "For SP/DSE roles, practice medium/hard DP and graph problems extensively.",
+        "Be able to derive mathematical time/space complexity using Big-O and recurrence relations."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-dsa-01",
+      "companySlug": "zoho",
+      "role": "Software Development Engineer",
+      "roundType": "Technical",
+      "topic": "Data Structures",
+      "subTopic": "Hash Maps & Internal Mechanics",
+      "difficulty": "Medium",
+      "questionText": "How does a Hash Map work internally under the hood? Explain how hash collisions occur and how techniques like Separate Chaining and Open Addressing resolve them, including worst-case time complexity.",
+      "sourceType": "Verified / Reported Question",
+      "sourceMetadata": {
+        "reportedBy": "Zoho 2025 Drive",
+        "reportingPeriod": "Q1 2025",
+        "frequencyScore": 94
+      },
+      "expectedConcepts": [
+        "Hash function & bucket indexing",
+        "Collision handling (Separate Chaining, Linear/Quadratic Probing)",
+        "Load factor & rehashing threshold (0.75)",
+        "Time complexity O(1) avg vs O(N) worst case",
+        "Java 8 Red-Black tree conversion for chains > 8"
+      ],
+      "sampleAnswerSummary": "A hash map calculates bucket index using hash(key) & (n - 1). Collisions are resolved via linked lists / balanced trees or open addressing. When load factor exceeds 0.75, the table doubles in capacity and rehashes elements.",
+      "followUpStarters": [
+        "What happens if all keys produce the exact same hash code?",
+        "Can you explain why resizing uses powers of two for bitwise AND masking?",
+        "How does thread safety impact Hash Map performance, and what is the difference with ConcurrentHashMap?"
+      ]
+    },
+    {
+      "id": "q-dsa-02",
+      "companySlug": "amazon",
+      "role": "Software Development Engineer I (SDE-1)",
+      "roundType": "Technical",
+      "topic": "Algorithms",
+      "subTopic": "Two Pointers & Sliding Window",
+      "difficulty": "Medium",
+      "questionText": "Given an array of integers and a target sum, how would you design an optimal algorithm to find two numbers that sum to the target? Compare the time and space trade-offs between Brute Force, Hash Table, and Two Pointers on a sorted array.",
+      "sourceType": "Verified / Reported Question",
+      "sourceMetadata": {
+        "reportedBy": "Amazon SDE OA & Technical",
+        "reportingPeriod": "2024-2025",
+        "frequencyScore": 98
+      },
+      "expectedConcepts": [
+        "Brute force O(N^2) time, O(1) space",
+        "Hash map single-pass O(N) time, O(N) space",
+        "Sorted array two-pointer O(N log N) or O(N) if pre-sorted, O(1) space",
+        "Edge cases: duplicates, negative numbers, overflow"
+      ],
+      "sampleAnswerSummary": "For unsorted arrays with single pass, store complements (target - num) in a hash map for O(N) time and O(N) space. If space is constrained and array can be sorted in place, sorting + two pointers yields O(N log N) time and O(1) auxiliary space.",
+      "followUpStarters": [
+        "How would you extend this approach to 3Sum or 4Sum without generating duplicate triplets?",
+        "What if the input stream is continuous and cannot fit into memory?",
+        "How does your algorithm handle duplicate pairs that sum to the target?"
+      ]
+    },
+    {
+      "id": "q-dsa-03",
+      "companySlug": "infosys",
+      "role": "Specialist Programmer (SP)",
+      "roundType": "Technical",
+      "topic": "Algorithms",
+      "subTopic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "questionText": "How do you identify whether a problem has Optimal Substructure and Overlapping Subproblems? Walk me through how you would convert a recursive exponential solution into a dynamic programming solution using memoization and tabulation.",
+      "sourceType": "Verified / Reported Question",
+      "sourceMetadata": {
+        "reportedBy": "HackWithInfy Final Round",
+        "reportingPeriod": "2024",
+        "frequencyScore": 89
+      },
+      "expectedConcepts": [
+        "Identification of recursive state variables",
+        "Memoization top-down with recursion call stack",
+        "Tabulation bottom-up with iterative table filling",
+        "Space optimization by keeping only necessary previous states",
+        "Recurrence relation formulation"
+      ],
+      "sampleAnswerSummary": "Optimal substructure means optimal solution of problem contains optimal solutions of subproblems. Overlapping subproblems means same subproblems are computed repeatedly. We define state dp[i], identify base cases, write transition equation, and optionally reduce space if only last k states are needed.",
+      "followUpStarters": [
+        "Can you give an example where DP space complexity can be reduced from O(N) to O(1)?",
+        "What is the difference between 0/1 Knapsack and Unbounded Knapsack state transitions?",
+        "When is dynamic programming inferior to Greedy approaches?"
+      ]
+    },
+    {
+      "id": "q-dbms-01",
+      "companySlug": "tcs",
+      "role": "System Engineer (Digital)",
+      "roundType": "Technical Core",
+      "topic": "Database Management Systems",
+      "subTopic": "ACID Properties & Transactions",
+      "difficulty": "Medium",
+      "questionText": "Explain the four ACID properties in relational database management systems with real-world banking transaction examples. What mechanisms does a database use to ensure Atomicity and Durability during system crashes?",
+      "sourceType": "Reported Interview Pattern",
+      "sourceMetadata": {
+        "reportedBy": "TCS Digital Drive",
+        "reportingPeriod": "Q4 2024",
+        "frequencyScore": 92
+      },
+      "expectedConcepts": [
+        "Atomicity (all-or-nothing, rollback via Write-Ahead Logging/Undo log)",
+        "Consistency (schema constraints, foreign keys)",
+        "Isolation (concurrency control, Read Committed vs Serializable)",
+        "Durability (WAL, Redo log, checkpointing to disk)",
+        "Banking transfer example"
+      ],
+      "sampleAnswerSummary": "ACID guarantees transactional integrity. Atomicity ensures debit and credit both succeed or roll back. Consistency maintains invariant constraints. Isolation prevents dirty reads and phantom reads. Durability writes logs to non-volatile storage before confirming commits via WAL.",
+      "followUpStarters": [
+        "What are dirty reads, non-repeatable reads, and phantom reads?",
+        "How does 2-Phase Locking (2PL) differ from Multi-Version Concurrency Control (MVCC)?",
+        "Why would a high-throughput system choose eventual consistency over strong ACID guarantees?"
+      ]
+    },
+    {
+      "id": "q-dbms-02",
+      "companySlug": "accenture",
+      "role": "Advanced Associate Software Engineer",
+      "roundType": "Technical Core",
+      "topic": "Database Management Systems",
+      "subTopic": "SQL Joins & Indexing",
+      "difficulty": "Medium",
+      "questionText": "What is the difference between INNER JOIN, LEFT OUTER JOIN, and FULL JOIN? Furthermore, how does a B-Tree index work to accelerate SELECT queries, and what is the trade-off during INSERT/UPDATE operations?",
+      "sourceType": "Reported Interview Pattern",
+      "sourceMetadata": {
+        "reportedBy": "Accenture AASE Drive",
+        "reportingPeriod": "2025",
+        "frequencyScore": 95
+      },
+      "expectedConcepts": [
+        "Join types and Venn diagram/Cartesian matching",
+        "B-Tree index structure (root, branch, leaf nodes with pointers)",
+        "Lookup complexity reduction from O(N) full table scan to O(log N)",
+        "Index overhead on writes due to page splits and tree rebalancing",
+        "Composite index leftmost prefix rule"
+      ],
+      "sampleAnswerSummary": "INNER JOIN returns matching records; LEFT JOIN returns all left rows plus matched right rows. B-Tree indexes maintain a sorted balanced hierarchy allowing O(log N) binary searches on disk blocks. Write operations slow down because every insert/update must rebalance index trees.",
+      "followUpStarters": [
+        "What is the difference between a Clustered Index and a Non-Clustered Index?",
+        "Why should you not create an index on a boolean column with low cardinality?",
+        "How do you inspect query execution plans using EXPLAIN in PostgreSQL or MySQL?"
+      ]
+    },
+    {
+      "id": "q-web-01",
+      "companySlug": "general",
+      "role": "Full Stack Developer",
+      "roundType": "Technical",
+      "topic": "Frontend & React",
+      "subTopic": "React Virtual DOM & State Management",
+      "difficulty": "Medium",
+      "questionText": "How does React's Virtual DOM and Reconciliation algorithm (Fiber) work? What happens under the hood when setState or useState is called, and why are unique keys essential when rendering lists?",
+      "sourceType": "Company-Style Question",
+      "sourceMetadata": {
+        "reportedBy": "Modern Web Tech Placement Suite",
+        "reportingPeriod": "2025-2026",
+        "frequencyScore": 96
+      },
+      "expectedConcepts": [
+        "Virtual DOM tree diffing (O(N) heuristic algorithm)",
+        "React Fiber incremental rendering and work loops",
+        "State batching in React 18",
+        "Keys for element identity tracking across re-renders to prevent unnecessary DOM mutations",
+        "Component lifecycle & useEffect dependencies"
+      ],
+      "sampleAnswerSummary": "React maintains a lightweight in-memory representation of real DOM. When state changes, a new VDOM tree is constructed. React diffs the old and new trees using heuristic rules: different component types produce different trees, and unique keys allow matching elements across renders, minimizing direct real DOM manipulation.",
+      "followUpStarters": [
+        "What is the difference between useMemo, useCallback, and React.memo?",
+        "Can you explain why React Fiber uses a singly-linked list tree structure instead of a standard recursion stack?",
+        "How does Concurrent Mode in React 18 enable interruptible rendering?"
+      ]
+    },
+    {
+      "id": "q-hr-01",
+      "companySlug": "amazon",
+      "role": "Software Development Engineer",
+      "roundType": "Behavioral & HR",
+      "topic": "Behavioral",
+      "subTopic": "Conflict Resolution & Disagreement",
+      "difficulty": "Medium",
+      "questionText": "Tell me about a situation during a project or academic team assignment where you had a strong technical disagreement with a peer or team lead. How did you handle it, what was the resolution, and what did you learn?",
+      "sourceType": "Verified / Reported Question",
+      "sourceMetadata": {
+        "reportedBy": "Amazon & Product Companies Behavioral Bank",
+        "reportingPeriod": "2025",
+        "frequencyScore": 97
+      },
+      "expectedConcepts": [
+        "STAR framework (Situation, Task, Action, Result)",
+        "Focus on data and objective trade-offs over ego",
+        "Active listening and understanding counter-arguments",
+        "Prototyping/benchmarking to test hypotheses",
+        "Disagree and Commit principle"
+      ],
+      "sampleAnswerSummary": "Use STAR format: Describe project context (e.g. database choice or API architecture), articulate the specific difference of technical perspective, explain how you gathered data or benchmarked both solutions objectively, show the compromise reached, and conclude with the successful project metric outcome.",
+      "followUpStarters": [
+        "If the team lead insisted on their approach despite benchmark evidence, how would you proceed?",
+        "What would you do differently if you were to encounter that exact scenario again today?",
+        "How do you ensure positive team rapport after an intense architectural debate?"
+      ]
+    }
+  ],
+  "technicalProblems": [
+    {
+      "id": "prob-01",
+      "title": "Two Sum & Pair Target",
+      "category": "DSA",
+      "companyTag": "Zoho / Amazon",
+      "subCategory": "Arrays & Hash Tables",
+      "difficulty": "Easy",
+      "timeLimitMs": 1500,
+      "description": "Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`. You may assume that each input would have exactly one solution, and you may not use the same element twice.",
+      "starterCode": {
+        "javascript": "function twoSum(nums, target) {\n  // Write your O(N) hash map solution here\n  const map = new Map();\n  for (let i = 0; i < nums.length; i++) {\n    const diff = target - nums[i];\n    if (map.has(diff)) {\n      return [map.get(diff), i];\n    }\n    map.set(nums[i], i);\n  }\n  return [];\n}",
+        "python": "def two_sum(nums, target):\n    seen = {}\n    for i, num in enumerate(nums):\n        diff = target - num\n        if diff in seen:\n            return [seen[diff], i]\n        seen[num] = i\n    return []"
+      },
+      "testCases": [
+        {
+          "input": "nums = [2,7,11,15], target = 9",
+          "expected": "[0,1]"
+        },
+        {
+          "input": "nums = [3,2,4], target = 6",
+          "expected": "[1,2]"
+        },
+        {
+          "input": "nums = [3,3], target = 6",
+          "expected": "[0,1]"
+        }
+      ],
+      "defenseQuestions": [
+        "What is the time and space complexity of your solution?",
+        "Why is a Hash Map lookup O(1) on average, and what could cause it to degrade to O(N)?",
+        "How would your approach change if the array was already sorted in ascending order?"
+      ]
+    },
+    {
+      "id": "prob-02",
+      "title": "Longest Substring Without Repeating Characters",
+      "category": "DSA",
+      "companyTag": "Amazon / Zoho",
+      "subCategory": "Strings & Sliding Window",
+      "difficulty": "Medium",
+      "timeLimitMs": 2000,
+      "description": "Given a string `s`, find the length of the longest substring without repeating characters using a sliding window.",
+      "starterCode": {
+        "javascript": "function lengthOfLongestSubstring(s) {\n  let left = 0;\n  let maxLen = 0;\n  const seen = new Map();\n\n  for (let right = 0; right < s.length; right++) {\n    const char = s[right];\n    if (seen.has(char) && seen.get(char) >= left) {\n      left = seen.get(char) + 1;\n    }\n    seen.set(char, right);\n    maxLen = Math.max(maxLen, right - left + 1);\n  }\n  return maxLen;\n}",
+        "python": "def length_of_longest_substring(s: str) -> int:\n    seen = {}\n    left = 0\n    max_len = 0\n    for right, char in enumerate(s):\n        if char in seen and seen[char] >= left:\n            left = seen[char] + 1\n        seen[char] = right\n        max_len = max(max_len, right - left + 1)\n    return max_len"
+      },
+      "testCases": [
+        {
+          "input": "s = 'abcabcbb'",
+          "expected": "3"
+        },
+        {
+          "input": "s = 'bbbbb'",
+          "expected": "1"
+        },
+        {
+          "input": "s = 'pwwkew'",
+          "expected": "3"
+        },
+        {
+          "input": "s = ''",
+          "expected": "0"
+        }
+      ],
+      "defenseQuestions": [
+        "Explain how the left pointer jumps when a duplicate character is encountered.",
+        "What happens when the input string consists of Unicode symbols or emoji characters?",
+        "Can this be optimized further in terms of memory if the character set is restricted to standard ASCII?"
+      ]
+    },
+    {
+      "id": "prob-03",
+      "title": "Spiral Matrix Traversal & Clockwise Unroll",
+      "category": "DSA",
+      "companyTag": "Zoho Round 2",
+      "subCategory": "2D Matrix & Pointers",
+      "difficulty": "Medium",
+      "timeLimitMs": 1500,
+      "description": "Given an `m x n` matrix, return all elements of the matrix in clockwise spiral order. Common Zoho technical coding round benchmark.",
+      "starterCode": {
+        "javascript": "function spiralOrder(matrix) {\n  if (!matrix.length || !matrix[0].length) return [];\n  const result = [];\n  let top = 0, bottom = matrix.length - 1;\n  let left = 0, right = matrix[0].length - 1;\n\n  while (top <= bottom && left <= right) {\n    for (let i = left; i <= right; i++) result.push(matrix[top][i]);\n    top++;\n    for (let i = top; i <= bottom; i++) result.push(matrix[i][right]);\n    right--;\n    if (top <= bottom) {\n      for (let i = right; i >= left; i--) result.push(matrix[bottom][i]);\n      bottom--;\n    }\n    if (left <= right) {\n      for (let i = bottom; i >= top; i--) result.push(matrix[i][left]);\n      left++;\n    }\n  }\n  return result;\n}"
+      },
+      "testCases": [
+        {
+          "input": "matrix = [[1,2,3],[4,5,6],[7,8,9]]",
+          "expected": "[1,2,3,6,9,8,7,4,5]"
+        },
+        {
+          "input": "matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]",
+          "expected": "[1,2,3,4,8,12,11,10,9,5,6,7]"
+        }
+      ],
+      "defenseQuestions": [
+        "What edge cases occur with 1xN single-row or Nx1 single-column matrices?",
+        "How do boundary checks prevent duplicate processing of the center row/column?",
+        "Can this traversal be executed recursively?"
+      ]
+    },
+    {
+      "id": "prob-04",
+      "title": "Valid Parentheses & Nested Syntax Validator",
+      "category": "DSA",
+      "companyTag": "TCS Digital / Zoho",
+      "subCategory": "Stacks & String Parsing",
+      "difficulty": "Easy",
+      "timeLimitMs": 1000,
+      "description": "Given a string `s` containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. Open brackets must be closed by the same type in correct order.",
+      "starterCode": {
+        "javascript": "function isValid(s) {\n  const stack = [];\n  const map = { ')': '(', '}': '{', ']': '[' };\n  for (const char of s) {\n    if (char === '(' || char === '{' || char === '[') {\n      stack.push(char);\n    } else {\n      if (stack.pop() !== map[char]) return false;\n    }\n  }\n  return stack.length === 0;\n}"
+      },
+      "testCases": [
+        {
+          "input": "s = '()[]{}'",
+          "expected": "true"
+        },
+        {
+          "input": "s = '(]'",
+          "expected": "false"
+        },
+        {
+          "input": "s = '([{}])'",
+          "expected": "true"
+        }
+      ],
+      "defenseQuestions": [
+        "Why is a LIFO Stack the natural data structure for balanced bracket verification?",
+        "What is the space complexity if the string has no closing brackets?",
+        "How would you extend this to evaluate arithmetic expressions with operator precedence?"
+      ]
+    },
+    {
+      "id": "prob-05",
+      "title": "Merge Overlapping Intervals",
+      "category": "DSA",
+      "companyTag": "Amazon SDE-1",
+      "subCategory": "Sorting & Greedy Intervals",
+      "difficulty": "Medium",
+      "timeLimitMs": 1500,
+      "description": "Given an array of `intervals` where `intervals[i] = [start_i, end_i]`, merge all overlapping intervals, and return an array of non-overlapping intervals that cover all the intervals in the input.",
+      "starterCode": {
+        "javascript": "function merge(intervals) {\n  if (intervals.length <= 1) return intervals;\n  intervals.sort((a, b) => a[0] - b[0]);\n  const merged = [intervals[0]];\n\n  for (let i = 1; i < intervals.length; i++) {\n    const current = intervals[i];\n    const last = merged[merged.length - 1];\n\n    if (current[0] <= last[1]) {\n      last[1] = Math.max(last[1], current[1]);\n    } else {\n      merged.push(current);\n    }\n  }\n  return merged;\n}"
+      },
+      "testCases": [
+        {
+          "input": "intervals = [[1,3],[2,6],[8,10],[15,18]]",
+          "expected": "[[1,6],[8,10],[15,18]]"
+        },
+        {
+          "input": "intervals = [[1,4],[4,5]]",
+          "expected": "[[1,5]]"
+        }
+      ],
+      "defenseQuestions": [
+        "Why is sorting by start time strictly required before the linear pass?",
+        "What is the total Big-O time complexity dominated by?",
+        "How would you solve the Meeting Rooms II problem (finding minimum conference rooms required)?"
+      ]
+    },
+    {
+      "id": "prob-06",
+      "title": "Subarray Sum Equals K (Continuous Subarrays)",
+      "category": "DSA",
+      "companyTag": "Infosys SP / TCS Digital",
+      "subCategory": "Prefix Sum & Hash Maps",
+      "difficulty": "Medium",
+      "timeLimitMs": 1500,
+      "description": "Given an array of integers `nums` and an integer `k`, return the total number of continuous subarrays whose sum equals to `k`.",
+      "starterCode": {
+        "javascript": "function subarraySum(nums, k) {\n  let count = 0;\n  let currentSum = 0;\n  const prefixSumMap = new Map();\n  prefixSumMap.set(0, 1);\n\n  for (const num of nums) {\n    currentSum += num;\n    if (prefixSumMap.has(currentSum - k)) {\n      count += prefixSumMap.get(currentSum - k);\n    }\n    prefixSumMap.set(currentSum, (prefixSumMap.get(currentSum) || 0) + 1);\n  }\n  return count;\n}"
+      },
+      "testCases": [
+        {
+          "input": "nums = [1,1,1], k = 2",
+          "expected": "2"
+        },
+        {
+          "input": "nums = [1,2,3], k = 3",
+          "expected": "2"
+        }
+      ],
+      "defenseQuestions": [
+        "Why does initializing prefixSumMap with (0: 1) matter for subarrays starting at index 0?",
+        "Why does the two-pointer sliding window fail when negative numbers exist in the array?",
+        "What is the space complexity in the worst case where all prefix sums are distinct?"
+      ]
+    },
+    {
+      "id": "prob-07",
+      "title": "SQL Second Highest & N-th Salary per Department",
+      "category": "DBMS",
+      "companyTag": "TCS / Amazon",
+      "subCategory": "Window Functions & DENSE_RANK",
+      "difficulty": "Medium",
+      "timeLimitMs": 1200,
+      "description": "Write an SQL query using window functions to find the second highest earning employee in each department without using subquery limit offsets.",
+      "starterCode": {
+        "javascript": "-- Schema: Employee (id, name, salary, department_id), Department (id, name)\nWITH RankedSalaries AS (\n  SELECT \n    d.name AS department_name,\n    e.name AS employee_name,\n    e.salary,\n    DENSE_RANK() OVER (PARTITION BY e.department_id ORDER BY e.salary DESC) AS salary_rank\n  FROM Employee e\n  JOIN Department d ON e.department_id = d.id\n)\nSELECT department_name, employee_name, salary\nFROM RankedSalaries\nWHERE salary_rank = 2;"
+      },
+      "testCases": [
+        {
+          "input": "Sample Employee Table with 3 Departments",
+          "expected": "Outputs exact 2nd highest earner per department"
+        }
+      ],
+      "defenseQuestions": [
+        "What is the difference between RANK(), DENSE_RANK(), and ROW_NUMBER() during salary ties?",
+        "Explain how the database execution engine executes PARTITION BY vs GROUP BY.",
+        "How would you index the Employee table to optimize partition ordering?"
+      ]
+    },
+    {
+      "id": "prob-08",
+      "title": "SQL Consecutive Logins & Active Day Streaks",
+      "category": "DBMS",
+      "companyTag": "Amazon / Zoho",
+      "subCategory": "Date Arithmetic & LAG/LEAD",
+      "difficulty": "Hard",
+      "timeLimitMs": 1500,
+      "description": "Find all users who logged in for at least 3 consecutive days. Table `Logins (user_id, login_date)`.",
+      "starterCode": {
+        "javascript": "-- Table: Logins (user_id INT, login_date DATE)\nWITH DistinctLogins AS (\n  SELECT DISTINCT user_id, login_date FROM Logins\n),\nGroupedLogins AS (\n  SELECT \n    user_id,\n    login_date,\n    DATEADD(day, -ROW_NUMBER() OVER(PARTITION BY user_id ORDER BY login_date), login_date) AS streak_group\n  FROM DistinctLogins\n)\nSELECT user_id, COUNT(*) AS streak_days\nFROM GroupedLogins\nGROUP BY user_id, streak_group\nHAVING COUNT(*) >= 3;"
+      },
+      "testCases": [
+        {
+          "input": "Logins table with continuous 3-day timestamps",
+          "expected": "Groups consecutive login streaks accurately"
+        }
+      ],
+      "defenseQuestions": [
+        "Explain the mathematical trick of subtracting ROW_NUMBER() from login_date to group streaks.",
+        "Why is `SELECT DISTINCT` mandatory before computing row numbers?",
+        "How would you optimize this query when Logins contains over 100 million rows?"
+      ]
+    },
+    {
+      "id": "prob-09",
+      "title": "Design Thread-Safe Singleton & Factory Pattern",
+      "category": "CS Core",
+      "companyTag": "Zoho / TCS Core",
+      "subCategory": "Object-Oriented Design & Concurrency",
+      "difficulty": "Medium",
+      "timeLimitMs": 1500,
+      "description": "Implement a thread-safe Singleton database connection pool manager with Double-Checked Locking in Java or JavaScript ES6 module caching.",
+      "starterCode": {
+        "javascript": "// Thread-safe Singleton Database Connection Pool in ES6\nclass DatabasePool {\n  constructor() {\n    if (DatabasePool.instance) {\n      return DatabasePool.instance;\n    }\n    this.connectionCount = 10;\n    this.status = \"CONNECTED\";\n    DatabasePool.instance = this;\n  }\n\n  getConnection() {\n    return { id: Math.random().toString(36).substring(7), active: true };\n  }\n}\n\n// Freeze to prevent modifications\nconst instance = new DatabasePool();\nObject.freeze(instance);\n// export default instance;"
+      },
+      "testCases": [
+        {
+          "input": "new DatabasePool() === new DatabasePool()",
+          "expected": "true"
+        }
+      ],
+      "defenseQuestions": [
+        "Why is the `volatile` keyword mandatory in Java double-checked locking to prevent instruction reordering?",
+        "What are the disadvantages of Singletons in unit testing and dependency injection?",
+        "How does the Module pattern in Node.js provide thread-safe singletons by default?"
+      ]
+    },
+    {
+      "id": "prob-10",
+      "title": "Implement Custom Promise.all with Concurrency Control",
+      "category": "Web",
+      "companyTag": "Full Stack & Web Roles",
+      "subCategory": "Asynchronous JavaScript & Event Loop",
+      "difficulty": "Medium",
+      "timeLimitMs": 1500,
+      "description": "Implement `customPromiseAll(promises)` from scratch without using `Promise.all`. Ensure fail-fast on first rejection and preserve original result order.",
+      "starterCode": {
+        "javascript": "function customPromiseAll(promises) {\n  return new Promise((resolve, reject) => {\n    if (!promises.length) return resolve([]);\n    const results = [];\n    let completed = 0;\n\n    promises.forEach((promise, index) => {\n      Promise.resolve(promise)\n        .then((value) => {\n          results[index] = value;\n          completed++;\n          if (completed === promises.length) {\n            resolve(results);\n          }\n        })\n        .catch(reject);\n    });\n  });\n}"
+      },
+      "testCases": [
+        {
+          "input": "promises = [Promise.resolve(1), Promise.resolve(2)]",
+          "expected": "[1,2]"
+        }
+      ],
+      "defenseQuestions": [
+        "Why must we use `results[index] = value` instead of `results.push(value)`?",
+        "Explain the microtask queue execution order when multiple promises resolve simultaneously.",
+        "How would you extend this to support a concurrency limit of max 3 active network requests?"
+      ]
+    }
+  ],
+  "challengeModes": [
+    {
+      "id": "pressure_round",
+      "title": "Pressure Round",
+      "tagline": "High-speed rapid response training",
+      "icon": "⏱️",
+      "badge": "Time Pressure",
+      "durationSeconds": 45,
+      "qCount": 10,
+      "stats": "10 Questions · 45s / Qn · Speed & Composure",
+      "description": "Short response windows with rapid placement panel follow-ups to test structured thinking, composure, and conciseness under strict technical interview time pressure."
+    },
+    {
+      "id": "technical_deep_dive",
+      "title": "Technical Deep Dive",
+      "tagline": "Single topic deep progressive probing",
+      "icon": "🧠",
+      "badge": "Specialized Depth",
+      "durationSeconds": 60,
+      "qCount": 10,
+      "stats": "10 Questions · Deep CS Concepts · Progressive Probing",
+      "description": "Focuses deeply on core company topics (DBMS Internals, Operating Systems, Computer Networks, and Architecture), testing theoretical and practical engineering depth."
+    },
+    {
+      "id": "weakness_attack",
+      "title": "Weakness Attack",
+      "tagline": "Auto-targets previous failure points",
+      "icon": "🎯",
+      "badge": "Personalized",
+      "durationSeconds": 60,
+      "qCount": 10,
+      "stats": "10 Questions · Auto-Target Gaps · Skill Matrix Upgrade",
+      "description": "Intelligently scans your diagnostic performance, extracting low-scoring topics and forcing targeted drills until confidence and mastery are validated."
+    },
+    {
+      "id": "communication_challenge",
+      "title": "Communication Challenge",
+      "tagline": "Speech clarity, pacing & STAR structure",
+      "icon": "🎙️",
+      "badge": "Verbal Excellence",
+      "durationSeconds": 60,
+      "qCount": 10,
+      "stats": "10 Questions · STAR / PREP Method · Pacing Analytics",
+      "description": "Tests structured answer framing (STAR & PREP methods), verbal conciseness, pacing, and eliminates repetitive filler words in technical explanations."
+    },
+    {
+      "id": "project_defense",
+      "title": "Project Defense Challenge",
+      "tagline": "Cross-examination of architectural choices",
+      "icon": "💻",
+      "badge": "System & Architecture",
+      "durationSeconds": 90,
+      "qCount": 10,
+      "stats": "10 Questions · Tech Stack Ownership · Trade-off Defense",
+      "description": "Deep scrutiny of design patterns, database selections, scalability trade-offs, and production failure recovery in candidate projects."
+    },
+    {
+      "id": "hr_challenge",
+      "title": "HR & Behavioral Challenge",
+      "tagline": "Leadership, ethics & dilemma scenarios",
+      "icon": "👔",
+      "badge": "Behavioral Fit",
+      "durationSeconds": 60,
+      "qCount": 10,
+      "stats": "10 Questions · Situational Ethics · Cultural Alignment",
+      "description": "Behavioral assessment evaluating conflict resolution, deadline management, team collaboration, and alignment with top tier company hiring standards."
+    }
+  ],
+  "interviewSessions": [
+    {
+      "id": "ses-autopsy-zoho-01",
+      "userId": "usr-cand-01",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "roleName": "Software Development Engineer",
+      "roundType": "Design & Implementation",
+      "difficulty": "Medium",
+      "mode": "mock",
+      "durationMinutes": 15,
+      "status": "completed",
+      "startedAt": "2026-10-06T06:21:12.725Z",
+      "completedAt": "2026-10-06T06:39:12.725Z",
+      "questions": [
+        {
+          "questionId": "q-dsa-01",
+          "questionText": "How does a Hash Map work internally under the hood? Explain collision handling with Separate Chaining vs Open Addressing.",
+          "userAnswer": "In a Hash Map, keys are converted into hash codes and mapped to bucket indices using bitwise masking. Collisions happen when two keys share the same bucket index. We resolve collisions through separate chaining using linked lists or red-black trees in Java 8, or open addressing using linear probing.",
+          "evaluation": {
+            "score": 85,
+            "correctness": 88,
+            "technicalDepth": 84,
+            "communicationClarity": 85,
+            "strengths": "Clearly explained bucket indexing, collision resolution methods, and Java 8 Red-Black tree conversion.",
+            "improvements": "Could elaborate more on load factor recalculation (0.75 threshold) and resizing overhead."
+          }
+        },
+        {
+          "questionId": "q-dsa-02",
+          "questionText": "How would you design a console-based Railway Reservation System without external third-party collections?",
+          "userAnswer": "I would define modular OOP classes: Passenger, Ticket, Coach, and Train. To handle reservations without Java Collections, I would implement a custom dynamic array or circular queue for Waiting List and RAC tickets. Seat allocation is managed via boolean matrix arrays.",
+          "evaluation": {
+            "score": 88,
+            "correctness": 90,
+            "technicalDepth": 88,
+            "communicationClarity": 86,
+            "strengths": "Clean class structure with single-responsibility principles. Good RAC queue logic.",
+            "improvements": "Add details on thread-safety if multiple booking counters access the train simultaneously."
+          }
+        }
+      ],
+      "overallEvaluation": {
+        "overallScore": 86,
+        "technicalDepthScore": 86,
+        "communicationClarityScore": 85,
+        "problemSolvingScore": 88,
+        "readinessVerdict": "Placement Ready for Round 3 Design",
+        "summary": "Candidate demonstrates strong algorithmic fundamentals and structured OOP design capability for Zoho Corporation."
+      },
+      "behavioralMetrics": {
+        "speakingPaceWpm": 128,
+        "fillerWordCount": 3,
+        "eyeContactScore": 88,
+        "gazeDeviationCount": 2,
+        "confidenceScore": 85
+      }
+    },
+    {
+      "id": "ses-autopsy-tcs-01",
+      "userId": "usr-cand-01",
+      "companySlug": "tcs",
+      "companyName": "TCS Digital / Prime",
+      "roleName": "System Engineer (Digital)",
+      "roundType": "Technical Core",
+      "difficulty": "Medium",
+      "mode": "mock",
+      "durationMinutes": 15,
+      "status": "completed",
+      "startedAt": "2026-10-07T06:21:12.725Z",
+      "completedAt": "2026-10-07T06:39:12.725Z",
+      "questions": [
+        {
+          "questionId": "q-dbms-01",
+          "questionText": "Explain the four ACID properties in RDBMS with a banking transfer scenario.",
+          "userAnswer": "ACID stands for Atomicity, Consistency, Isolation, and Durability. In banking, when transferring 1000 rupees from Account A to B, both debit and credit must happen together or rollback (Atomicity). Constraints ensure total bank balance is preserved (Consistency). Concurrent transfers do not interfere with intermediate balances (Isolation). Changes are logged to disk via WAL before acknowledging (Durability).",
+          "evaluation": {
+            "score": 92,
+            "correctness": 94,
+            "technicalDepth": 90,
+            "communicationClarity": 92,
+            "strengths": "Exemplary real-world explanation using debit and credit transactions with WAL mention.",
+            "improvements": "Mention isolation levels like Repeatable Read and Serializable."
+          }
+        }
+      ],
+      "overallEvaluation": {
+        "overallScore": 91,
+        "technicalDepthScore": 90,
+        "communicationClarityScore": 92,
+        "problemSolvingScore": 91,
+        "readinessVerdict": "Exceeds Expectations for TCS Digital",
+        "summary": "High clarity on DBMS transactions and clean verbal delivery."
+      },
+      "behavioralMetrics": {
+        "speakingPaceWpm": 132,
+        "fillerWordCount": 2,
+        "eyeContactScore": 91,
+        "gazeDeviationCount": 1,
+        "confidenceScore": 90
+      }
+    },
+    {
+      "id": "ses-autopsy-amazon-01",
+      "userId": "usr-cand-02",
+      "companySlug": "amazon",
+      "companyName": "Amazon",
+      "roleName": "Software Development Engineer I (SDE-1)",
+      "roundType": "DSA & Problem Solving",
+      "difficulty": "Hard",
+      "mode": "mock",
+      "durationMinutes": 20,
+      "status": "completed",
+      "startedAt": "2026-10-07T18:21:12.725Z",
+      "completedAt": "2026-10-07T18:45:12.725Z",
+      "questions": [
+        {
+          "questionId": "q-dsa-02",
+          "questionText": "Given an array of integers and target sum, compare Two Pointers vs Hash Map trade-offs.",
+          "userAnswer": "Hash map provides O(N) time and O(N) space by checking if target - current exists. If memory is constrained and input can be sorted, sorting takes O(N log N) and two pointers takes O(N) with O(1) extra space.",
+          "evaluation": {
+            "score": 88,
+            "correctness": 90,
+            "technicalDepth": 88,
+            "communicationClarity": 86,
+            "strengths": "Accurate asymptotic trade-off analysis.",
+            "improvements": "Walk through edge case with integer overflow."
+          }
+        }
+      ],
+      "overallEvaluation": {
+        "overallScore": 88,
+        "technicalDepthScore": 89,
+        "communicationClarityScore": 86,
+        "problemSolvingScore": 89,
+        "readinessVerdict": "Strong Contender for Amazon SDE-1 OA",
+        "summary": "Strong complexity proofs and concise verbal trade-off comparison."
+      },
+      "behavioralMetrics": {
+        "speakingPaceWpm": 122,
+        "fillerWordCount": 4,
+        "eyeContactScore": 84,
+        "gazeDeviationCount": 3,
+        "confidenceScore": 82
+      }
+    },
+    {
+      "id": "ses-259cc76a-24ef-46f7-8073-00d19a921229",
+      "userId": "usr-g-f4cc05a3-0795-4987-8a41-ca06ac3efa81",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "targetRole": "Software Development Engineer",
+      "roundType": "Technical",
+      "difficulty": "Medium",
+      "durationMinutes": 15,
+      "mode": "voice_camera",
+      "status": "in_progress",
+      "startedAt": "2026-10-08T08:21:03.053Z",
+      "turns": [
+        {
+          "turnNumber": 1,
+          "questionId": "q-dsa-01",
+          "questionText": "How does a Hash Map work internally under the hood? Explain how hash collisions occur and how techniques like Separate Chaining and Open Addressing resolve them, including worst-case time complexity.",
+          "questionType": "Technical",
+          "timestamp": "1:52:31 pm",
+          "answerText": "OK.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 38,
+            "technicalDepth": 40,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Hash function & bucket indexing",
+              "Collision handling (Separate Chaining, Linear/Quadratic Probing)",
+              "Load factor & rehashing threshold (0.75)",
+              "Time complexity O(1) avg vs O(N) worst case",
+              "Java 8 Red-Black tree conversion for chains > 8"
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Hash function & bucket indexing, Collision handling (Separate Chaining, Linear/Quadratic Probing)"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Hash function & bucket indexing and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        }
+      ],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 94,
+        "eyeContactConsistency": 88,
+        "gazeAwayIncidents": 2,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 4,
+        "longPausesCount": 1,
+        "speechClarityScore": 90
+      },
+      "overallEvaluation": null,
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Zoho Corporation (Technical Round).",
+          "turnIndex": -1
+        },
+        {
+          "timeOffset": "00:45",
+          "eventTitle": "Question 1 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 38% on Data Structures.",
+          "turnIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "ses-1bb0ea24-8e8a-4cdc-b93f-a2c2428153f5",
+      "userId": "usr-g-f4cc05a3-0795-4987-8a41-ca06ac3efa81",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "targetRole": "Software Development Engineer",
+      "roundType": "Technical",
+      "difficulty": "Medium",
+      "durationMinutes": 1,
+      "mode": "voice_camera",
+      "status": "completed",
+      "startedAt": "2026-10-08T08:44:28.686Z",
+      "turns": [
+        {
+          "turnNumber": 1,
+          "questionId": "q-dsa-01",
+          "questionText": "How does a Hash Map work internally under the hood? Explain how hash collisions occur and how techniques like Separate Chaining and Open Addressing resolve them, including worst-case time complexity.",
+          "questionType": "Technical",
+          "timestamp": "2:14:53 pm",
+          "answerText": "In a Hash Map, keys are hashed using a hash function and mapped to bucket indices via bitwise masking (hash & (n-1)). When collisions occur where two keys hash to the same bucket, techniques like Separate Chaining (using linked lists or red-black trees in Java 8) or Open Addressing (using Linear or Quadratic Probing) resolve them. The average time complexity for lookup is O(1), with worst case O(N) if many keys collide. When load factor exceeds 0.75, the map rehashes and doubles its capacity.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 95,
+            "technicalDepth": 96,
+            "completeness": 100,
+            "clarity": 86,
+            "coveredConcepts": [
+              "Hash function & bucket indexing",
+              "Collision handling (Separate Chaining, Linear/Quadratic Probing)",
+              "Load factor & rehashing threshold (0.75)",
+              "Time complexity O(1) avg vs O(N) worst case",
+              "Java 8 Red-Black tree conversion for chains > 8"
+            ],
+            "missingConcepts": [],
+            "strengths": [
+              "Addressed core concepts: Hash function & bucket indexing, Collision handling (Separate Chaining, Linear/Quadratic Probing)",
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [],
+            "improvementAdvice": "Strong technical answer. To elevate to top-tier rating, proactively discuss failure modes and alternative architectures.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 2,
+          "questionId": "fup-1",
+          "questionText": "Can you explain why resizing uses powers of two for bitwise AND masking?",
+          "questionType": "Technical",
+          "timestamp": "2:15:01 pm",
+          "answerText": "To find two numbers that sum to a target, a hash map provides an optimal single-pass solution with O(N) time and O(N) auxiliary space by storing complements. Alternatively, if the array can be sorted or is already sorted, we can use two pointers from the left and right ends, achieving O(N log N) sorting time with O(1) auxiliary space.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 59,
+            "technicalDepth": 66,
+            "completeness": 25,
+            "clarity": 90,
+            "coveredConcepts": [
+              "Time Complexity"
+            ],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness"
+            ],
+            "strengths": [
+              "Addressed core concepts: Time Complexity",
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 3,
+          "questionId": "fup-2",
+          "questionText": "Can you optimize this further?",
+          "questionType": "Technical",
+          "timestamp": "2:15:11 pm",
+          "answerText": "First, I analyze the input constraints and edge cases. I design a modular approach using single-responsibility principles, select appropriate data structures to optimize time complexity to O(N), and ensure space complexity is minimized. Finally, I write test cases covering empty inputs, duplicates, and boundary limits.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 59,
+            "technicalDepth": 66,
+            "completeness": 25,
+            "clarity": 90,
+            "coveredConcepts": [
+              "Time Complexity"
+            ],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness"
+            ],
+            "strengths": [
+              "Addressed core concepts: Time Complexity",
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        }
+      ],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 95,
+        "eyeContactConsistency": 98,
+        "gazeAwayIncidents": 1,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 3,
+        "longPausesCount": 1,
+        "speechClarityScore": 89,
+        "totalDurationSeconds": 10,
+        "durationMinutes": 1,
+        "formattedDuration": "0m 10s",
+        "allocatedMinutes": 15
+      },
+      "overallEvaluation": {
+        "overallScore": 71,
+        "technicalScore": 76,
+        "communicationScore": 89,
+        "problemSolvingScore": 50,
+        "companyFitScore": 70,
+        "summaryVerdic": "Candidate demonstrated solid foundational aptitude with strong communication flow.",
+        "keyStrengths": [
+          "Addressed core concepts: Hash function & bucket indexing, Collision handling (Separate Chaining, Linear/Quadratic Probing)",
+          "Provided a structured response with contextual detail.",
+          "Addressed core concepts: Time Complexity"
+        ],
+        "criticalGaps": [
+          "Missed key technical aspects: Reasoning, Trade-offs"
+        ],
+        "actionableTips": [
+          "Practice explaining time and space complexity with formal Big-O proofs.",
+          "When explaining architectures, explicitly compare at least two alternatives (e.g. SQL vs NoSQL, Array vs Linked List).",
+          "Minimize conversational fillers (um, like) by pausing for 2 seconds to formulate thoughts before answering."
+        ]
+      },
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Zoho Corporation (Technical Round).",
+          "turnIndex": -1
+        },
+        {
+          "timeOffset": "00:45",
+          "eventTitle": "Question 1 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 95% on Data Structures.",
+          "turnIndex": 0
+        },
+        {
+          "timeOffset": "01:30",
+          "eventTitle": "Question 2 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 59% on Data Structures (Follow-up Deep Dive).",
+          "turnIndex": 1
+        },
+        {
+          "timeOffset": "02:15",
+          "eventTitle": "Question 3 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 59% on Data Structures (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 2
+        }
+      ],
+      "completedAt": "2026-10-08T08:45:30.946Z"
+    },
+    {
+      "id": "ses-a23f71c1-15f8-407f-8125-3212343936d4",
+      "userId": "usr-admin-01",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "targetRole": "Placement Director",
+      "roundType": "Technical",
+      "difficulty": "Hard",
+      "durationMinutes": 1,
+      "mode": "voice_camera",
+      "status": "completed",
+      "startedAt": "2026-10-12T13:19:45.921Z",
+      "turns": [],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 95,
+        "eyeContactConsistency": 98,
+        "gazeAwayIncidents": 1,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 3,
+        "longPausesCount": 1,
+        "speechClarityScore": 89,
+        "totalDurationSeconds": 10,
+        "durationMinutes": 1,
+        "formattedDuration": "0m 10s",
+        "allocatedMinutes": 15
+      },
+      "overallEvaluation": {
+        "overallScore": 70,
+        "technicalScore": 68,
+        "communicationScore": 72,
+        "problemSolvingScore": 70,
+        "companyFitScore": 74,
+        "summaryVerdic": "Interview completed. Consistent foundation with room for higher technical precision.",
+        "keyStrengths": [
+          "Clear verbal presentation",
+          "Structured thought process"
+        ],
+        "criticalGaps": [
+          "Could articulate time complexity earlier in responses",
+          "Deepen edge case coverage"
+        ],
+        "actionableTips": [
+          "State Big-O complexity upfront before diving into implementation.",
+          "Use the STAR method for behavioral and scenario questions.",
+          "Practice articulating trade-offs between space and time."
+        ]
+      },
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Zoho Corporation (Technical Round).",
+          "turnIndex": -1
+        }
+      ],
+      "completedAt": "2026-10-12T13:19:57.861Z"
+    },
+    {
+      "id": "ses-4ed28eec-87ae-4559-b03e-505394f75a9a",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "targetRole": "Software Development Engineer",
+      "roundType": "Technical",
+      "difficulty": "Medium",
+      "durationMinutes": 15,
+      "mode": "voice_camera",
+      "status": "in_progress",
+      "startedAt": "2026-10-12T23:23:33.066Z",
+      "turns": [
+        {
+          "turnNumber": 1,
+          "questionId": "q-dsa-01",
+          "questionText": "How does a Hash Map work internally under the hood? Explain how hash collisions occur and how techniques like Separate Chaining and Open Addressing resolve them, including worst-case time complexity.",
+          "questionType": "Technical",
+          "timestamp": "4:54:46 am",
+          "answerText": "Able to solve the question. Please explain this.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 38,
+            "technicalDepth": 40,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Hash function & bucket indexing",
+              "Collision handling (Separate Chaining, Linear/Quadratic Probing)",
+              "Load factor & rehashing threshold (0.75)",
+              "Time complexity O(1) avg vs O(N) worst case",
+              "Java 8 Red-Black tree conversion for chains > 8"
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Hash function & bucket indexing, Collision handling (Separate Chaining, Linear/Quadratic Probing)"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Hash function & bucket indexing and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 2,
+          "questionId": "fup-1",
+          "questionText": "You touched on the basics, but could you elaborate specifically on how Hash function & bucket indexing works with a concrete example?",
+          "questionType": "Technical",
+          "timestamp": "4:55:39 am",
+          "answerText": "This also. This also. This also. This also. This also. This also. I am not too unable.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 38,
+            "technicalDepth": 40,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness",
+              "Time Complexity"
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 3,
+          "questionId": "fup-2",
+          "questionText": "You touched on the basics, but could you elaborate specifically on how Reasoning works with a concrete example?",
+          "questionType": "Technical",
+          "timestamp": "4:55:58 am",
+          "answerText": "This also may not be prepared so far.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 38,
+            "technicalDepth": 40,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness",
+              "Time Complexity"
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 4,
+          "questionId": "fup-3",
+          "questionText": "You touched on the basics, but could you elaborate specifically on how Reasoning works with a concrete example?",
+          "questionType": "Technical",
+          "timestamp": "4:56:09 am",
+          "answerText": "I don't know.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 38,
+            "technicalDepth": 40,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness",
+              "Time Complexity"
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 5,
+          "questionId": "fup-4",
+          "questionText": "You touched on the basics, but could you elaborate specifically on how Reasoning works with a concrete example?",
+          "questionType": "Technical",
+          "timestamp": "4:56:22 am",
+          "answerText": "He's won the next question.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 38,
+            "technicalDepth": 40,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness",
+              "Time Complexity"
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 6,
+          "questionId": "fup-5",
+          "questionText": "You touched on the basics, but could you elaborate specifically on how Reasoning works with a concrete example?",
+          "questionType": "Technical",
+          "timestamp": "4:56:44 am",
+          "answerText": "First, I analyze the input constraints and edge cases. I design a modular approach using single-responsibility principles, select appropriate data structures to optimize time complexity to O(N), and ensure space complexity is minimized. Finally, I write test cases covering empty inputs, duplicates, and boundary limits.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 59,
+            "technicalDepth": 66,
+            "completeness": 25,
+            "clarity": 90,
+            "coveredConcepts": [
+              "Time Complexity"
+            ],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness"
+            ],
+            "strengths": [
+              "Addressed core concepts: Time Complexity",
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 7,
+          "questionId": "fup-6",
+          "questionText": "Interesting approach. In a high-scale environment, what trade-offs or edge cases would you consider regarding Reasoning?",
+          "questionType": "Technical",
+          "timestamp": "4:56:53 am",
+          "answerText": "First, I analyze the input constraints and edge cases. I design a modular approach using single-responsibility principles, select appropriate data structures to optimize time complexity to O(N), and ensure space complexity is minimized. Finally, I write test cases covering empty inputs, duplicates, and boundary limits.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 59,
+            "technicalDepth": 66,
+            "completeness": 25,
+            "clarity": 90,
+            "coveredConcepts": [
+              "Time Complexity"
+            ],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness"
+            ],
+            "strengths": [
+              "Addressed core concepts: Time Complexity",
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 8,
+          "questionId": "fup-7",
+          "questionText": "Interesting approach. In a high-scale environment, what trade-offs or edge cases would you consider regarding Reasoning?",
+          "questionType": "Technical",
+          "timestamp": "4:57:02 am",
+          "answerText": "First, I analyze the input constraints and edge cases. I design a modular approach using single-responsibility principles, select appropriate data structures to optimize time complexity to O(N), and ensure space complexity is minimized. Finally, I write test cases covering empty inputs, duplicates, and boundary limits.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 59,
+            "technicalDepth": 66,
+            "completeness": 25,
+            "clarity": 90,
+            "coveredConcepts": [
+              "Time Complexity"
+            ],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness"
+            ],
+            "strengths": [
+              "Addressed core concepts: Time Complexity",
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 9,
+          "questionId": "fup-8",
+          "questionText": "Interesting approach. In a high-scale environment, what trade-offs or edge cases would you consider regarding Reasoning?",
+          "questionType": "Technical",
+          "timestamp": "4:57:11 am",
+          "answerText": "First, I analyze the input constraints and edge cases. I design a modular approach using single-responsibility principles, select appropriate data structures to optimize time complexity to O(N), and ensure space complexity is minimized. Finally, I write test cases covering empty inputs, duplicates, and boundary limits.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 59,
+            "technicalDepth": 66,
+            "completeness": 25,
+            "clarity": 90,
+            "coveredConcepts": [
+              "Time Complexity"
+            ],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness"
+            ],
+            "strengths": [
+              "Addressed core concepts: Time Complexity",
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        }
+      ],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 94,
+        "eyeContactConsistency": 88,
+        "gazeAwayIncidents": 2,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 4,
+        "longPausesCount": 1,
+        "speechClarityScore": 90
+      },
+      "overallEvaluation": null,
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Zoho Corporation (Technical Round).",
+          "turnIndex": -1
+        },
+        {
+          "timeOffset": "00:45",
+          "eventTitle": "Question 1 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 38% on Data Structures.",
+          "turnIndex": 0
+        },
+        {
+          "timeOffset": "01:30",
+          "eventTitle": "Question 2 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 38% on Data Structures (Follow-up Deep Dive).",
+          "turnIndex": 1
+        },
+        {
+          "timeOffset": "02:15",
+          "eventTitle": "Question 3 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 38% on Data Structures (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 2
+        },
+        {
+          "timeOffset": "03:00",
+          "eventTitle": "Question 4 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 38% on Data Structures (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 3
+        },
+        {
+          "timeOffset": "03:45",
+          "eventTitle": "Question 5 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 38% on Data Structures (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 4
+        },
+        {
+          "timeOffset": "04:30",
+          "eventTitle": "Question 6 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 59% on Data Structures (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 5
+        },
+        {
+          "timeOffset": "05:15",
+          "eventTitle": "Question 7 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 59% on Data Structures (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 6
+        },
+        {
+          "timeOffset": "06:00",
+          "eventTitle": "Question 8 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 59% on Data Structures (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 7
+        },
+        {
+          "timeOffset": "06:45",
+          "eventTitle": "Question 9 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 59% on Data Structures (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "ses-22a59369-86d7-4c2f-931c-d7a876c090d7",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "targetRole": "Software Development Engineer",
+      "roundType": "Technical",
+      "difficulty": "Medium",
+      "durationMinutes": 15,
+      "mode": "voice_camera",
+      "status": "in_progress",
+      "startedAt": "2026-10-12T23:50:48.721Z",
+      "turns": [],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 94,
+        "eyeContactConsistency": 88,
+        "gazeAwayIncidents": 2,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 4,
+        "longPausesCount": 1,
+        "speechClarityScore": 90
+      },
+      "overallEvaluation": null,
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Zoho Corporation (Technical Round).",
+          "turnIndex": -1
+        }
+      ]
+    },
+    {
+      "id": "ses-8872314d-1932-4325-8126-084c4a2fd228",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "companySlug": "tcs",
+      "companyName": "Tata Consultancy Services (TCS Digital / Prime)",
+      "targetRole": "Software Development Engineer",
+      "roundType": "Technical",
+      "difficulty": "Medium",
+      "durationMinutes": 15,
+      "mode": "voice_camera",
+      "status": "in_progress",
+      "startedAt": "2026-10-13T00:25:51.937Z",
+      "turns": [
+        {
+          "turnNumber": 1,
+          "questionId": "q-web-01",
+          "questionText": "How does React's Virtual DOM and Reconciliation algorithm (Fiber) work? What happens under the hood when setState or useState is called, and why are unique keys essential when rendering lists?",
+          "questionType": "Technical",
+          "timestamp": "5:59:36 am",
+          "answerText": "Virtual Dom. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. State React schedule a state update. React reenter the component with a new state React compare the previous and new UA resolution. Virtual Dom is a lightweight copy of the real Dom maintained by React reconciliation. Compare the previous virtual term with the new virtual Dom to identify the changes fiber. We have internal system that help. Schedule and prioritize rendering work efficiently. So state state. State React schedule a state update. React reenter the component with a new state React compare the previous and new UA resolution.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 90,
+            "technicalDepth": 95,
+            "completeness": 80,
+            "clarity": 90,
+            "coveredConcepts": [
+              "Virtual DOM tree diffing (O(N) heuristic algorithm)",
+              "React Fiber incremental rendering and work loops",
+              "State batching in React 18",
+              "Component lifecycle & useEffect dependencies"
+            ],
+            "missingConcepts": [
+              "Keys for element identity tracking across re-renders to prevent unnecessary DOM mutations"
+            ],
+            "strengths": [
+              "Addressed core concepts: Virtual DOM tree diffing (O(N) heuristic algorithm), React Fiber incremental rendering and work loops",
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [
+              "Missed key technical aspects: Keys for element identity tracking across re-renders to prevent unnecessary DOM mutations"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Keys for element identity tracking across re-renders to prevent unnecessary DOM mutations and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 2,
+          "questionId": "fup-1",
+          "questionText": "Interesting approach. In a high-scale environment, what trade-offs or edge cases would you consider regarding Keys for element identity tracking across re-renders to prevent unnecessary DOM mutations?",
+          "questionType": "Technical",
+          "timestamp": "6:00:22 am",
+          "answerText": "In a high scale React application, I would consider this trade of choosing key, use stable unique ID, avoid random key, handle duplicate ID, manage missing ID, use indexes carefully and understand component to identify.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 48,
+            "technicalDepth": 60,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness",
+              "Time Complexity"
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 3,
+          "questionId": "fup-2",
+          "questionText": "Interesting approach. In a high-scale environment, what trade-offs or edge cases would you consider regarding Reasoning?",
+          "questionType": "Technical",
+          "timestamp": "6:01:02 am",
+          "answerText": "in a large red application i would these 3 data of correctness performance memory usage maintainability dynamic list and measure before optimizing",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 59,
+            "technicalDepth": 66,
+            "completeness": 25,
+            "clarity": 90,
+            "coveredConcepts": [
+              "Correctness"
+            ],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Time Complexity"
+            ],
+            "strengths": [
+              "Addressed core concepts: Correctness"
+            ],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 4,
+          "questionId": "fup-3",
+          "questionText": "You touched on the basics, but could you elaborate specifically on how Reasoning works with a concrete example?",
+          "questionType": "Technical",
+          "timestamp": "6:01:37 am",
+          "answerText": "Rajni, is the reaction been real? Compare the old UI with the new UI and decide what need to change.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 48,
+            "technicalDepth": 60,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness",
+              "Time Complexity"
+            ],
+            "strengths": [],
+            "weaknesses": [
+              "Response was overly brief; placement interviewers expect step-by-step reasoning.",
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        },
+        {
+          "turnNumber": 5,
+          "questionId": "fup-4",
+          "questionText": "You touched on the basics, but could you elaborate specifically on how Reasoning works with a concrete example?",
+          "questionType": "Technical",
+          "timestamp": "6:02:15 am",
+          "answerText": "Any react displays Arun and Priya. When we click add student, the state update with Ravi re enter the component and compare the new UI with the previous UI. React identify what Ravi is new item and update them accordingly. The existing student element can be reused instead of.",
+          "audioDurationSeconds": 45,
+          "evaluation": {
+            "score": 48,
+            "technicalDepth": 60,
+            "completeness": 0,
+            "clarity": 90,
+            "coveredConcepts": [],
+            "missingConcepts": [
+              "Reasoning",
+              "Trade-offs",
+              "Correctness",
+              "Time Complexity"
+            ],
+            "strengths": [
+              "Provided a structured response with contextual detail."
+            ],
+            "weaknesses": [
+              "Missed key technical aspects: Reasoning, Trade-offs"
+            ],
+            "improvementAdvice": "Ensure you explicitly mention Reasoning and state the time/space trade-offs early in your answer.",
+            "isContextualFollowUp": true
+          }
+        }
+      ],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 94,
+        "eyeContactConsistency": 88,
+        "gazeAwayIncidents": 2,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 4,
+        "longPausesCount": 1,
+        "speechClarityScore": 90
+      },
+      "overallEvaluation": null,
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Tata Consultancy Services (TCS Digital / Prime) (Technical Round).",
+          "turnIndex": -1
+        },
+        {
+          "timeOffset": "00:45",
+          "eventTitle": "Question 1 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 90% on Frontend & React.",
+          "turnIndex": 0
+        },
+        {
+          "timeOffset": "01:30",
+          "eventTitle": "Question 2 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 48% on Frontend & React (Follow-up Deep Dive).",
+          "turnIndex": 1
+        },
+        {
+          "timeOffset": "02:15",
+          "eventTitle": "Question 3 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 59% on Frontend & React (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 2
+        },
+        {
+          "timeOffset": "03:00",
+          "eventTitle": "Question 4 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 48% on Frontend & React (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 3
+        },
+        {
+          "timeOffset": "03:45",
+          "eventTitle": "Question 5 Evaluation",
+          "eventType": "follow_up",
+          "description": "Candidate scored 48% on Frontend & React (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive) (Follow-up Deep Dive).",
+          "turnIndex": 4
+        }
+      ]
+    },
+    {
+      "id": "ses-f04c8142-478c-4c01-a6bf-74c3798d8529",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "targetRole": "Software Development Engineer",
+      "roundType": "Technical",
+      "difficulty": "Medium",
+      "durationMinutes": 15,
+      "mode": "voice_camera",
+      "status": "in_progress",
+      "startedAt": "2026-10-13T02:07:35.519Z",
+      "turns": [],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 94,
+        "eyeContactConsistency": 88,
+        "gazeAwayIncidents": 2,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 4,
+        "longPausesCount": 1,
+        "speechClarityScore": 90
+      },
+      "overallEvaluation": null,
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Zoho Corporation (Technical Round).",
+          "turnIndex": -1
+        }
+      ]
+    },
+    {
+      "id": "ses-ce287726-498d-49a4-9694-b8f3d6ea937f",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "targetRole": "Software Development Engineer",
+      "roundType": "Technical",
+      "difficulty": "Medium",
+      "durationMinutes": 15,
+      "mode": "voice_camera",
+      "status": "in_progress",
+      "startedAt": "2026-10-13T02:16:19.191Z",
+      "turns": [],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 94,
+        "eyeContactConsistency": 88,
+        "gazeAwayIncidents": 2,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 4,
+        "longPausesCount": 1,
+        "speechClarityScore": 90
+      },
+      "overallEvaluation": null,
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Zoho Corporation (Technical Round).",
+          "turnIndex": -1
+        }
+      ]
+    },
+    {
+      "id": "ses-3712cd71-e818-421e-a036-0d750c380430",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "companySlug": "zoho",
+      "companyName": "Zoho Corporation",
+      "targetRole": "Software Development Engineer",
+      "roundType": "Technical",
+      "difficulty": "Medium",
+      "durationMinutes": 15,
+      "mode": "voice_camera",
+      "status": "in_progress",
+      "startedAt": "2026-10-13T06:45:03.522Z",
+      "turns": [],
+      "behaviorMetrics": {
+        "faceDetectedPercentage": 94,
+        "eyeContactConsistency": 88,
+        "gazeAwayIncidents": 2,
+        "averageSpeakingPaceWpm": 138,
+        "fillerWordCount": 4,
+        "longPausesCount": 1,
+        "speechClarityScore": 90
+      },
+      "overallEvaluation": null,
+      "replayTimeline": [
+        {
+          "timeOffset": "00:00",
+          "eventTitle": "Interview Room Initialized",
+          "eventType": "system",
+          "description": "Environment check passed for Zoho Corporation (Technical Round).",
+          "turnIndex": -1
+        }
+      ]
+    }
+  ],
+  "resumeDefenseSessions": [
+    {
+      "id": "rd-85d1da51-adf9-4c58-9d8e-667c7b81a154",
+      "userId": "usr-g-51f37b7e-1df3-45ed-b30d-6aaf7a9aa707",
+      "resumeClaims": [
+        {
+          "claimId": "claim-22",
+          "category": "project",
+          "text": "• A comprehensive contact management system built with C. Features include adding,",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-52",
+          "category": "project",
+          "text": "• A stopwatch application built using interactive web technologies.",
+          "techStack": [
+            "C"
+          ]
+        }
+      ],
+      "interrogations": [],
+      "credibilityMap": [
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        }
+      ],
+      "unsupportedClaims": [],
+      "createdAt": "2026-10-06T16:23:09.877Z"
+    },
+    {
+      "id": "rd-a6713d8e-9fad-4572-9553-1f62ff85a8e9",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "resumeClaims": [
+        {
+          "claimId": "claim-12",
+          "category": "project",
+          "text": "–Built a regression model to predict movie ratings using genre, budget, cast, and review features.",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-18",
+          "category": "project",
+          "text": "–Full-stack exam preparation platform built with Java Spring Boot.",
+          "techStack": [
+            "JAVA",
+            "SPRING BOOT",
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-21",
+          "category": "project",
+          "text": "–Built an interactive calendar with event management and monthly view using vanilla JavaScript.",
+          "techStack": [
+            "JAVASCRIPT",
+            "JAVA",
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-23",
+          "category": "project",
+          "text": "–Built an Arduino-based RC car using Bluetooth, L293D motor driver, and ultrasonic sensor.",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-24",
+          "category": "project",
+          "text": "–Implemented wireless control and obstacle detection for smart navigation.",
+          "techStack": [
+            "C"
+          ]
+        }
+      ],
+      "interrogations": [],
+      "credibilityMap": [
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "JAVA",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "JAVASCRIPT",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        }
+      ],
+      "unsupportedClaims": [],
+      "createdAt": "2026-10-12T23:28:40.385Z"
+    },
+    {
+      "id": "rd-8bc4a9cf-08c2-4aef-ac99-9eccefd312d5",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "resumeClaims": [
+        {
+          "claimId": "claim-16",
+          "category": "project",
+          "text": "House Price Prediction: Built and evaluated a regression model in Python (Google Colab) to predict housing prices from property",
+          "techStack": [
+            "PYTHON",
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-22",
+          "category": "project",
+          "text": "- Using Flutter and Vs code , I developed a reciepe booking system .",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-24",
+          "category": "project",
+          "text": "– Engineered a role-based facility booking platform on Oracle APEX with distinct permission levels for Admins, Faculty, and Active",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-26",
+          "category": "project",
+          "text": "– Designed a booking workflow with Pending, Approved, Rejected, and Cancelled status states, plus a calendar view for real-time",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-28",
+          "category": "project",
+          "text": "– Built an Admin Panel and QR-code-based verification flow to confirm bookings at point of use, reducing double-booking and",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-31",
+          "category": "project",
+          "text": "– Built a full-stack study management tool solving the problem of scattered task/subject tracking for students, using Spring Boot",
+          "techStack": [
+            "SPRING BOOT",
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-33",
+          "category": "project",
+          "text": "– Designed the relational schema and backend logic for subject management, task tracking, and study logs, with Maven handling",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-35",
+          "category": "project",
+          "text": "– Built a regression model to predict house prices from property features, addressing inconsistent manual price estimation, using",
+          "techStack": [
+            "C"
+          ]
+        }
+      ],
+      "interrogations": [],
+      "credibilityMap": [
+        {
+          "skillOrTech": "PYTHON",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "SPRING BOOT",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        }
+      ],
+      "unsupportedClaims": [],
+      "createdAt": "2026-10-12T23:29:13.319Z"
+    },
+    {
+      "id": "rd-443ef8d5-fb80-4763-ac2d-a764612a360c",
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "resumeClaims": [
+        {
+          "claimId": "claim-12",
+          "category": "project",
+          "text": "–Built a regression model to predict movie ratings using genre, budget, cast, and review features.",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-18",
+          "category": "project",
+          "text": "–Full-stack exam preparation platform built with Java Spring Boot.",
+          "techStack": [
+            "JAVA",
+            "SPRING BOOT",
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-21",
+          "category": "project",
+          "text": "–Built an interactive calendar with event management and monthly view using vanilla JavaScript.",
+          "techStack": [
+            "JAVASCRIPT",
+            "JAVA",
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-23",
+          "category": "project",
+          "text": "–Built an Arduino-based RC car using Bluetooth, L293D motor driver, and ultrasonic sensor.",
+          "techStack": [
+            "C"
+          ]
+        },
+        {
+          "claimId": "claim-24",
+          "category": "project",
+          "text": "–Implemented wireless control and obstacle detection for smart navigation.",
+          "techStack": [
+            "C"
+          ]
+        }
+      ],
+      "interrogations": [],
+      "credibilityMap": [
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "JAVA",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "JAVASCRIPT",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        },
+        {
+          "skillOrTech": "C",
+          "status": "Needs deeper understanding",
+          "notes": "Pending candidate defense interrogation"
+        }
+      ],
+      "unsupportedClaims": [],
+      "createdAt": "2026-10-12T23:51:27.817Z"
+    }
+  ],
+  "technicalAttempts": [],
+  "challengeResults": [],
+  "readinessProfiles": [
+    {
+      "userId": "usr-cand-01",
+      "overallReadiness": 88,
+      "streakDays": 4,
+      "skillMatrix": {
+        "dsa": {
+          "score": 85,
+          "trend": "improving"
+        },
+        "dbms": {
+          "score": 92,
+          "trend": "improving"
+        },
+        "oop": {
+          "score": 88,
+          "trend": "stable"
+        },
+        "systemDesign": {
+          "score": 82,
+          "trend": "improving"
+        },
+        "webTech": {
+          "score": 90,
+          "trend": "stable"
+        },
+        "communication": {
+          "score": 86,
+          "trend": "improving"
+        },
+        "projectDefense": {
+          "score": 88,
+          "trend": "improving"
+        },
+        "problemSolving": {
+          "score": 87,
+          "trend": "improving"
+        }
+      },
+      "weaknessEvolution": [
+        {
+          "date": "Day 1",
+          "gap": "SQL Indexing & Isolation Levels",
+          "score": 62
+        },
+        {
+          "date": "Day 2",
+          "gap": "Recursion Stack Overflow Handling",
+          "score": 74
+        },
+        {
+          "date": "Day 3",
+          "gap": "System Design RAC Queue",
+          "score": 82
+        },
+        {
+          "date": "Day 4",
+          "gap": "Forensic Verbal Pacing",
+          "score": 88
+        }
+      ],
+      "companyReadinessScores": [
+        {
+          "companySlug": "zoho",
+          "companyName": "Zoho Corporation",
+          "score": 86,
+          "status": "Ready for Round 3"
+        },
+        {
+          "companySlug": "tcs",
+          "companyName": "TCS Digital",
+          "score": 92,
+          "status": "High Probability (Prime)"
+        },
+        {
+          "companySlug": "amazon",
+          "companyName": "Amazon",
+          "score": 78,
+          "status": "Needs Hard DP Polish"
+        },
+        {
+          "companySlug": "accenture",
+          "companyName": "Accenture",
+          "score": 90,
+          "status": "Clear"
+        },
+        {
+          "companySlug": "infosys",
+          "companyName": "Infosys SP",
+          "score": 85,
+          "status": "Ready"
+        }
+      ],
+      "nextBestAction": {
+        "title": "Run Zoho Round 3 LLD Console Simulation",
+        "actionType": "studio",
+        "targetModule": "studio",
+        "reasoning": "Your ACID and OOP fundamentals are solid. Sharpening state machine design for Splitwise will cement Zoho readiness.",
+        "estimatedMinutes": 20
+      }
+    },
+    {
+      "userId": "usr-cand-02",
+      "overallReadiness": 84,
+      "streakDays": 3,
+      "skillMatrix": {
+        "dsa": {
+          "score": 90,
+          "trend": "improving"
+        },
+        "dbms": {
+          "score": 80,
+          "trend": "stable"
+        },
+        "oop": {
+          "score": 85,
+          "trend": "stable"
+        },
+        "systemDesign": {
+          "score": 84,
+          "trend": "improving"
+        },
+        "webTech": {
+          "score": 78,
+          "trend": "stable"
+        },
+        "communication": {
+          "score": 82,
+          "trend": "improving"
+        },
+        "projectDefense": {
+          "score": 86,
+          "trend": "stable"
+        },
+        "problemSolving": {
+          "score": 91,
+          "trend": "improving"
+        }
+      },
+      "nextBestAction": {
+        "title": "Master Amazon Leadership Principles (STAR Stories)",
+        "actionType": "challenge",
+        "targetModule": "challenge-hub",
+        "reasoning": "Your DSA problem solving is top-tier. Polish your Customer Obsession behavioral stories.",
+        "estimatedMinutes": 15
+      }
+    },
+    {
+      "userId": "usr-cand-03",
+      "overallReadiness": 79,
+      "streakDays": 2,
+      "skillMatrix": {
+        "dsa": {
+          "score": 75,
+          "trend": "improving"
+        },
+        "dbms": {
+          "score": 82,
+          "trend": "improving"
+        },
+        "oop": {
+          "score": 80,
+          "trend": "stable"
+        },
+        "systemDesign": {
+          "score": 74,
+          "trend": "stable"
+        },
+        "webTech": {
+          "score": 88,
+          "trend": "improving"
+        },
+        "communication": {
+          "score": 84,
+          "trend": "improving"
+        },
+        "projectDefense": {
+          "score": 80,
+          "trend": "stable"
+        },
+        "problemSolving": {
+          "score": 78,
+          "trend": "improving"
+        }
+      }
+    },
+    {
+      "userId": "usr-cand-04",
+      "overallReadiness": 76,
+      "streakDays": 2,
+      "skillMatrix": {
+        "dsa": {
+          "score": 72,
+          "trend": "improving"
+        },
+        "dbms": {
+          "score": 85,
+          "trend": "improving"
+        },
+        "oop": {
+          "score": 82,
+          "trend": "stable"
+        },
+        "systemDesign": {
+          "score": 70,
+          "trend": "stable"
+        },
+        "webTech": {
+          "score": 76,
+          "trend": "improving"
+        },
+        "communication": {
+          "score": 80,
+          "trend": "improving"
+        },
+        "projectDefense": {
+          "score": 78,
+          "trend": "stable"
+        },
+        "problemSolving": {
+          "score": 74,
+          "trend": "improving"
+        }
+      }
+    },
+    {
+      "userId": "usr-cand-05",
+      "overallReadiness": 82,
+      "streakDays": 5,
+      "skillMatrix": {
+        "dsa": {
+          "score": 84,
+          "trend": "improving"
+        },
+        "dbms": {
+          "score": 78,
+          "trend": "stable"
+        },
+        "oop": {
+          "score": 80,
+          "trend": "improving"
+        },
+        "systemDesign": {
+          "score": 79,
+          "trend": "stable"
+        },
+        "webTech": {
+          "score": 75,
+          "trend": "stable"
+        },
+        "communication": {
+          "score": 85,
+          "trend": "improving"
+        },
+        "projectDefense": {
+          "score": 89,
+          "trend": "improving"
+        },
+        "problemSolving": {
+          "score": 88,
+          "trend": "improving"
+        }
+      }
+    },
+    {
+      "userId": "usr-g-f4cc05a3-0795-4987-8a41-ca06ac3efa81",
+      "overallReadiness": 61,
+      "streakDays": 2,
+      "lastActiveDate": "2026-10-08T08:45:30.957Z",
+      "skillMatrix": {
+        "dsa": {
+          "score": 61,
+          "trend": "up"
+        },
+        "dbms": {
+          "score": 58,
+          "trend": "up"
+        },
+        "oop": {
+          "score": 65,
+          "trend": "up"
+        },
+        "systemDesign": {
+          "score": 52,
+          "trend": "up"
+        },
+        "webTech": {
+          "score": 69,
+          "trend": "stable"
+        },
+        "communication": {
+          "score": 89,
+          "trend": "up"
+        },
+        "projectDefense": {
+          "score": 55,
+          "trend": "up"
+        },
+        "problemSolving": {
+          "score": 50,
+          "trend": "up"
+        }
+      },
+      "weaknessEvolution": [
+        {
+          "topic": "Technical",
+          "history": [
+            {
+              "sessionDate": "8/10/2026",
+              "score": 76,
+              "sessionType": "Zoho Corporation"
+            }
+          ]
+        }
+      ],
+      "companyReadinessScores": [
+        {
+          "companySlug": "zoho",
+          "companyName": "Zoho Corporation",
+          "score": 58,
+          "status": "In Progress"
+        },
+        {
+          "companySlug": "tcs",
+          "companyName": "TCS Digital",
+          "score": 64,
+          "status": "In Progress"
+        },
+        {
+          "companySlug": "amazon",
+          "companyName": "Amazon SDE-1",
+          "score": 52,
+          "status": "In Progress"
+        },
+        {
+          "companySlug": "accenture",
+          "companyName": "Accenture AASE",
+          "score": 62,
+          "status": "Ready"
+        }
+      ],
+      "nextBestAction": {
+        "title": "Review Interview Autopsy & Target Weakness Areas",
+        "actionType": "autopsy_review",
+        "targetModule": "autopsy",
+        "reasoning": "Your latest Zoho Corporation session scored 71%. Review timestamped missing concepts before your next attempt.",
+        "estimatedMinutes": 10
+      },
+      "updatedAt": "2026-10-08T08:45:30.990Z"
+    },
+    {
+      "userId": "usr-admin-01",
+      "overallReadiness": 60,
+      "streakDays": 2,
+      "lastActiveDate": "2026-10-12T13:19:57.882Z",
+      "skillMatrix": {
+        "dsa": {
+          "score": 61,
+          "trend": "up"
+        },
+        "dbms": {
+          "score": 58,
+          "trend": "up"
+        },
+        "oop": {
+          "score": 65,
+          "trend": "up"
+        },
+        "systemDesign": {
+          "score": 52,
+          "trend": "up"
+        },
+        "webTech": {
+          "score": 69,
+          "trend": "stable"
+        },
+        "communication": {
+          "score": 72,
+          "trend": "up"
+        },
+        "projectDefense": {
+          "score": 55,
+          "trend": "up"
+        },
+        "problemSolving": {
+          "score": 70,
+          "trend": "up"
+        }
+      },
+      "weaknessEvolution": [
+        {
+          "topic": "Technical Problem Solving",
+          "history": [
+            {
+              "sessionDate": "12/10/2026",
+              "score": 68,
+              "sessionType": "Zoho Corporation"
+            }
+          ]
+        }
+      ],
+      "companyReadinessScores": [
+        {
+          "companySlug": "zoho",
+          "companyName": "Zoho Corporation",
+          "score": 57,
+          "status": "In Progress"
+        },
+        {
+          "companySlug": "tcs",
+          "companyName": "TCS Digital",
+          "score": 63,
+          "status": "In Progress"
+        },
+        {
+          "companySlug": "amazon",
+          "companyName": "Amazon SDE-1",
+          "score": 51,
+          "status": "In Progress"
+        },
+        {
+          "companySlug": "accenture",
+          "companyName": "Accenture AASE",
+          "score": 61,
+          "status": "In Progress"
+        }
+      ],
+      "nextBestAction": {
+        "title": "Review Interview Autopsy & Target Weakness Areas",
+        "actionType": "autopsy_review",
+        "targetModule": "autopsy",
+        "reasoning": "Your latest Zoho Corporation session scored 70%. Review timestamped missing concepts before your next attempt.",
+        "estimatedMinutes": 10
+      },
+      "updatedAt": "2026-10-12T13:19:58.133Z"
+    },
+    {
+      "userId": "usr-e975e676-d60a-4b05-81aa-290870d57a0c",
+      "overallReadiness": 0,
+      "streakDays": 1,
+      "skillMatrix": {
+        "dsa": {
+          "score": 0,
+          "trend": "stable"
+        },
+        "dbms": {
+          "score": 0,
+          "trend": "stable"
+        },
+        "oop": {
+          "score": 0,
+          "trend": "stable"
+        },
+        "systemDesign": {
+          "score": 0,
+          "trend": "stable"
+        },
+        "webTech": {
+          "score": 0,
+          "trend": "stable"
+        },
+        "communication": {
+          "score": 0,
+          "trend": "stable"
+        },
+        "projectDefense": {
+          "score": 0,
+          "trend": "stable"
+        },
+        "problemSolving": {
+          "score": 0,
+          "trend": "stable"
+        }
+      },
+      "weaknessEvolution": [],
+      "companyReadinessScores": [
+        {
+          "companySlug": "zoho",
+          "companyName": "Zoho Corporation",
+          "score": 0,
+          "status": "Not Evaluated"
+        },
+        {
+          "companySlug": "tcs",
+          "companyName": "TCS Digital",
+          "score": 0,
+          "status": "Not Evaluated"
+        },
+        {
+          "companySlug": "amazon",
+          "companyName": "Amazon",
+          "score": 0,
+          "status": "Not Evaluated"
+        },
+        {
+          "companySlug": "accenture",
+          "companyName": "Accenture",
+          "score": 0,
+          "status": "Not Evaluated"
+        },
+        {
+          "companySlug": "infosys",
+          "companyName": "Infosys SP",
+          "score": 0,
+          "status": "Not Evaluated"
+        }
+      ],
+      "nextBestAction": {
+        "title": "Complete your Placement Profile & First Technical Assessment",
+        "actionType": "profile_setup",
+        "targetModule": "profile",
+        "reasoning": "Configure your target companies and upload your resume to generate tailored interview questions.",
+        "estimatedMinutes": 5
+      },
+      "recentAchievements": [],
+      "updatedAt": "2026-10-12T23:22:17.056Z"
+    }
+  ]
+}
